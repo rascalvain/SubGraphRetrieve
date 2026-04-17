@@ -1,0 +1,75 @@
+{
+    "os": "Linux-6.8.0-90-generic-x86_64-with-glibc2.35",
+    "python": "3.10.18",
+    "heartbeatAt": "2026-02-05T09:08:39.667334",
+    "startedAt": "2026-02-05T09:08:39.595944",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-d",
+        "webqsp"
+    ],
+    "state": "running",
+    "program": "/home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve/train_hybrid.py",
+    "codePathLocal": "train_hybrid.py",
+    "codePath": "train_hybrid.py",
+    "host": "shu1004-System-Product-Name",
+    "username": "shu1004",
+    "executable": "/home/shu1004/anaconda3/envs/lyx_sub_retriever/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 6,
+    "cpu_freq": {
+        "current": 3902.3106666666663,
+        "min": 800.0,
+        "max": 4100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3918.88,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3914.603,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3916.47,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3900.137,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3891.916,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3900.037,
+            "min": 800.0,
+            "max": 4100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1832.2072448730469,
+            "used": 895.2542991638184
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 31.28044891357422
+    }
+}

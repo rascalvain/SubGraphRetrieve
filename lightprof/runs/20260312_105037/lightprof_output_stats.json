@@ -1,0 +1,10 @@
+{
+  "total_samples": 1639,
+  "processed_samples": 1638,
+  "avg_chains": 425.60744810744814,
+  "avg_chains_after_fuzzy": 79.1117216117216,
+  "avg_paths": 297.4786324786325,
+  "avg_gr_triples": 174.0836385836386,
+  "failed_samples": 0,
+  "failed_sample_ids": []
+}

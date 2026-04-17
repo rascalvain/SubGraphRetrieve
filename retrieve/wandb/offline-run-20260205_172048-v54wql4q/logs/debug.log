@@ -1,0 +1,27 @@
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_setup.py:_flush():76] Current SDK version is 0.17.4
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_setup.py:_flush():76] Configure stats pid to 683422
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_setup.py:_flush():76] Loading settings from /home/shu1004/.config/wandb/settings
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_setup.py:_flush():76] Loading settings from /home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve/wandb/settings
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'train_hybrid.py', 'program_abspath': '/home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve/train_hybrid.py', 'program': '/home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve/train_hybrid.py'}
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_setup.py:_flush():76] Applying login settings: {}
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_setup.py:_flush():76] Applying login settings: {'mode': 'offline'}
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_init.py:_log_setup():529] Logging user logs to /home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve/wandb/offline-run-20260205_172048-v54wql4q/logs/debug.log
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_init.py:_log_setup():530] Logging internal logs to /home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve/wandb/offline-run-20260205_172048-v54wql4q/logs/debug-internal.log
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_init.py:init():569] calling init triggers
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_init.py:init():576] wandb.init called with sweep_config: {}
+config: {'env/num_threads': 16, 'env/seed': 42, 'dataset/name': 'webqsp', 'dataset/text_encoder_name': 'gte-large-en-v1.5', 'retriever/topic_pe': True, 'retriever/DDE_kwargs/num_rounds': 2, 'retriever/DDE_kwargs/num_reverse_rounds': 2, 'optimizer/lr': 0.001, 'eval/k_list': [100], 'train/num_epochs': 10000, 'train/patience': 10, 'train/save_prefix': 'webqsp'}
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_init.py:init():619] starting backend
+2026-02-05 17:20:48,798 INFO    MainThread:683422 [wandb_init.py:init():623] setting up manager
+2026-02-05 17:20:48,799 INFO    MainThread:683422 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2026-02-05 17:20:48,800 INFO    MainThread:683422 [wandb_init.py:init():631] backend started and connected
+2026-02-05 17:20:48,801 INFO    MainThread:683422 [wandb_init.py:init():720] updated telemetry
+2026-02-05 17:20:48,802 INFO    MainThread:683422 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2026-02-05 17:20:48,805 INFO    MainThread:683422 [wandb_init.py:init():804] starting run threads in backend
+2026-02-05 17:20:50,653 INFO    MainThread:683422 [wandb_run.py:_console_start():2380] atexit reg
+2026-02-05 17:20:50,653 INFO    MainThread:683422 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2026-02-05 17:20:50,653 INFO    MainThread:683422 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2026-02-05 17:20:50,653 INFO    MainThread:683422 [wandb_run.py:_redirect():2325] Redirects installed.
+2026-02-05 17:20:50,654 INFO    MainThread:683422 [wandb_init.py:init():847] run started, returning control to user process
+2026-02-05 17:21:21,106 WARNING MsgRouterThr:683422 [router.py:message_loop():77] message_loop has been closed

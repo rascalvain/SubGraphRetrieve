@@ -1,0 +1,75 @@
+{
+    "os": "Linux-5.4.0-150-generic-x86_64-with-glibc2.27",
+    "python": "3.10.18",
+    "heartbeatAt": "2025-12-29T03:39:20.834142",
+    "startedAt": "2025-12-29T03:39:20.780771",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-d",
+        "webqsp"
+    ],
+    "state": "running",
+    "program": "/media/shu1004/pytorch/projects/lyx/subgraph/SubgraphRAG-main/retrieve/train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "host": "shu1004-System-Product-Name",
+    "username": "shu1004",
+    "executable": "/media/shu1004/pytorch/anaconda3/envs/lyx_sub_retriever/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 6,
+    "cpu_freq": {
+        "current": 3047.522333333334,
+        "min": 800.0,
+        "max": 4000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3047.717,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3479.402,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3025.615,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2671.546,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2879.463,
+            "min": 800.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3181.391,
+            "min": 800.0,
+            "max": 4000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 186.6832160949707,
+            "used": 144.89083862304688
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 62.74526596069336
+    }
+}

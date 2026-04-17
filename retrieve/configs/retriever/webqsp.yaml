@@ -1,0 +1,30 @@
+task: 'retriever'
+
+env:
+  num_threads: 16
+  seed: 42
+
+dataset:
+  name: 'webqsp'
+  text_encoder_name: 'gte-large-en-v1.5'
+  use_llm_extracted_entities: true
+  use_kg_enhanced: true
+  entity_mapping_file: './src/data/entity_mapping_with_mid.txt'  # 新增
+  data_base_dir: '/home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve/data_files'
+
+retriever:
+  topic_pe: true
+  DDE_kwargs:
+    num_rounds: 2
+    num_reverse_rounds: 2
+
+optimizer:
+  lr: 1e-3
+
+eval:
+  k_list: '100'
+
+train:
+  num_epochs: 10000
+  patience: 10
+  save_prefix: 'webqsp_hybrid'  # 🔑 修改实验名称以区分

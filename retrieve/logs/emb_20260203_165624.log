@@ -1,0 +1,33 @@
+========================================
+WebQSP KG增强嵌入计算任务
+========================================
+启动时间: 2026-02-03 16:56:24
+时间戳: 20260203_165624
+主机: shu1004-System-Product-Name
+用户: shu1004
+工作目录: /home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve
+
+配置参数:
+  数据集: webqsp
+  使用本地数据集: true
+  本地数据集路径: /home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve/processed_dataset/webqsp_processed
+  KG嵌入路径: ./src/data/entity_embeddings.pkl
+  实体映射路径: ./src/data/entity_mapping_with_mid.txt
+  融合方法: weighted
+  文本权重: 0.7
+  KG权重: 0.3
+  输出目录: ./outputs/emb_weighted_t0.7_k0.3_20260203_165624
+
+========================================
+
+✓ 使用 HuggingFace 镜像: https://hf-mirror.com
+执行命令:
+python emb_hybrid.py -d webqsp --use_local_dataset --local_dataset_path /home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve/processed_dataset/webqsp_processed --output_dir ./outputs/emb_weighted_t0.7_k0.3_20260203_165624     --use_kg_enhancement     --kg_emb_path ./src/data/entity_embeddings.pkl     --entity_mapping_path ./src/data/entity_mapping_with_mid.txt     --fusion_method weighted     --text_weight 0.7     --kg_weight 0.3
+
+开始执行...
+========================================
+
+  File "/home/shu1004/lyx/subgraph/SubgraphRAG-main/retrieve/emb_hybrid.py", line 139
+    entity_identifiers = []
+    ^
+IndentationError: expected an indented block after 'else' statement on line 135

@@ -1,0 +1,3549 @@
+entity_name	entity_name_fb
+["2012 NCAA Men's Division I Basketball Tournament"]	2006_NCAA_Men's_Division_I_Basketball_Tournament
+["Ain't Talkin' 'Bout Love"]	not_linked
+["Athletics at the 1976 Summer Olympics - Men's Decathlon"]	1976_Summer_Olympics
+["Aubrey O'Day"]	not_linked
+["Aurore Giscard d'Estaing"]	not_linked
+["Bill Gates's house"]	not_linked
+["Brian O'Conner"]	not_linked
+["Bright's disease"]	not_linked
+["Child's Play"]	not_linked
+["Georgia O'Keeffe"]	not_linked
+["Gymnastics at the 2012 Summer Olympics – Women's artistic team all-around"]	not_linked
+["Harry Potter and the Philosopher's Stone"]	Harry_Potter_and_the_Philosopher's_Stone
+["Jack Daniel's"]	not_linked
+["LSU Tigers men's basketball"]	LSU_Tigers_men's_basketball
+["McDonald's"]	McDonald's
+["Nat Turner's slave rebellion"]	not_linked
+["Newton's law of universal gravitation"]	not_linked
+["Nyang'oma Kogelo"]	not_linked
+["Parkinson's disease"]	Parkinson's_disease
+["Saint Mary's College of California Gael"]	Saint_Mary's_College_of_California
+["Saint Mary's College of California"]	Saint_Mary's_College_of_California
+["San Canzian d'Isonzo"]	not_linked
+["Shaquille O'Neal"]	Shaquille_O'Neal
+["Shays' Rebellion"]	not_linked
+["St Andrew's School, Pangbourne"]	University_of_St_Andrews
+["St George's Day"]	not_linked
+["St James's Palace"]	not_linked
+["St Trinian's School"]	not_linked
+["That's one small step for man, one giant leap for mankind."]	not_linked
+["The King's School, Grantham"]	not_linked
+["The Lion King II: Simba's Pride"]	The_Lion_King
+["United Nations Children's Fund"]	not_linked
+["Walt Disney's Wonderful World of Color"]	Disney's_House_of_Mouse
+["Women's rights"]	Feminism
+['-1332']	not_linked
+['-479']	not_linked
+['0.01']	not_linked
+['0030']	not_linked
+['0343-12-06']	not_linked
+['08260']	not_linked
+['139-799']	not_linked
+['1440']	not_linked
+['1656']	not_linked
+['1672-04-04']	not_linked
+['1786']	not_linked
+['1789-04-30']	not_linked
+['1836-02-23']	not_linked
+['1841-03-04']	not_linked
+['1881']	not_linked
+['1883']	not_linked
+['1889-04-20']	not_linked
+['1901']	not_linked
+['1901-09-14']	not_linked
+['1903 World Series']	not_linked
+['1906 San Francisco earthquake']	not_linked
+['1906-04-18']	not_linked
+['1908 World Series']	1908_Major_League_Baseball_season
+['1913-03-04']	not_linked
+['1914']	not_linked
+['1921-09']	not_linked
+['1923 World Series']	1927_Major_League_Baseball_Season
+['1929-03-04']	not_linked
+['1940-05-15']	not_linked
+['1945-04-12']	not_linked
+['1945-04-30']	not_linked
+['1945-09-02']	not_linked
+['1948-05-15']	not_linked
+['1949 BAA Finals']	not_linked
+['1949']	not_linked
+['1955-11-01']	not_linked
+['1957 NBA Finals']	not_linked
+['1960-11-08']	not_linked
+['1961-01-20']	not_linked
+['1962']	not_linked
+['1964-08-27']	1964_Summer_Olympics
+['1967 Stanley Cup Finals']	not_linked
+['1968']	1968_Summer_Olympics
+['1968-03-29']	not_linked
+['1969 World Series']	not_linked
+['1969-01-20']	not_linked
+['1971-02-04']	not_linked
+['1971-10-13']	not_linked
+['1972']	not_linked
+['1973 NBA Finals']	not_linked
+['1975 NBA Finals']	not_linked
+['1975-04-30']	not_linked
+['1976-08-10']	not_linked
+['1976–77 FA Cup']	not_linked
+['1977']	not_linked
+['1977-07-13']	not_linked
+['1980']	not_linked
+['1982 World Series']	not_linked
+['1983 World Series']	1985_Major_League_Baseball_season
+['1984 NBA draft']	2004_NBA_draft
+['1984']	not_linked
+['1985–86 NBA season']	1985_Major_League_Baseball_season
+['1986 World Series']	1985_Major_League_Baseball_season
+['1987 NFL season']	1985_Major_League_Baseball_season
+['1987']	not_linked
+['1988 World Series']	not_linked
+['1988']	not_linked
+['1988-10']	not_linked
+['1988-11-08']	not_linked
+['1989 Loma Prieta earthquake']	not_linked
+['1990 Major League Baseball Draft']	1995_Major_League_Baseball_Draft
+['1990']	not_linked
+['1991 NBA Finals']	not_linked
+['1991']	not_linked
+['1992 NBA draft']	2004_NBA_draft
+['1992–93 NBA season']	not_linked
+['1994 Formula One season']	not_linked
+['1994 Major League Baseball Season']	1985_Major_League_Baseball_season
+['1994 NBA Finals']	not_linked
+['1995 World Series']	not_linked
+['1995']	not_linked
+['1996 Summer Olympics']	1996_Summer_Olympics
+['1996 UEFA Champions League Final']	not_linked
+['1996']	not_linked
+['1997–98 NBA season']	not_linked
+['1998 NBA Finals']	not_linked
+['1998 NFL draft']	2004_NFL_Draft
+['1999 NFL draft']	2004_NFL_Draft
+['2000']	not_linked
+['2000–01 NBA season']	not_linked
+['2001 Major League Baseball Season']	2000_Major_League_Baseball_season
+['2001 World Series']	2004_Major_League_Baseball_season
+['2001-01-20']	not_linked
+['2001-04-19']	not_linked
+['2001-08-03']	not_linked
+['2002 Bali bombings']	not_linked
+['2002 Major League Baseball Season']	2000_Major_League_Baseball_season
+['2002']	not_linked
+['2002-10-12']	not_linked
+['2003 AFC Championship Game']	not_linked
+['2003 NBA draft']	2003_NBA_draft
+['2003 World Series']	2003_Major_League_Baseball_season
+['2003 invasion of Iraq']	2003_invasion_of_Iraq
+['2003-01-02']	not_linked
+['2003-03-20']	not_linked
+['2003-11-18']	not_linked
+['2003–04 NBA season']	not_linked
+['2004 NBA Finals']	not_linked
+['2005 NFL draft']	2005_NFL_Draft
+['2005']	not_linked
+['2005-09-25']	not_linked
+['2006 NBA draft']	2006_NBA_draft
+['2006 NFL draft']	2006_NFL_Draft
+['2006 Stanley Cup Finals']	not_linked
+['2006']	not_linked
+['2007 NBA draft']	2007_NBA_draft
+['2007 World Series']	2007_Major_League_Baseball_season
+['2007-07-21']	not_linked
+['2007–08 NBA season']	not_linked
+['2008 Summer Olympics']	2008_Summer_Olympics
+['2008']	not_linked
+['2008-04-27']	not_linked
+['2009 Nobel Peace Prize']	Nobel_Peace_Prize
+['2009']	2010
+['2009-04-23']	not_linked
+['2009-12-28']	not_linked
+['2010 Chile earthquake']	not_linked
+['2010 NBA Finals']	not_linked
+['2010 Stanley Cup Finals']	not_linked
+['2011 Atlantic hurricane season']	The_Hurricane
+['2011 Christchurch earthquake']	not_linked
+['2011 military intervention in Libya']	Libyan_Civil_War
+['2011']	2012
+['2011-02-15']	not_linked
+['2011-02-22']	not_linked
+['2011-03-19']	not_linked
+['2011-09-12']	not_linked
+['2012 Football League Cup Final']	not_linked
+['2012 Masters Tournament']	not_linked
+['2012 World Series']	not_linked
+['2012-02-07']	not_linked
+['2012-03-16']	not_linked
+['2013 Stanley Cup Finals']	not_linked
+['2014 Stanley Cup Finals']	not_linked
+['2014 UEFA Champions League Final']	not_linked
+['2014 World Series']	not_linked
+['2014-06-23']	not_linked
+['2015-04-02']	not_linked
+['29 Ashwin']	not_linked
+['3.048']	not_linked
+['30 Rock - Season 6']	30_Rock
+['45067']	not_linked
+['79735']	not_linked
+['94560']	not_linked
+['A Bronx Tale']	not_linked
+['A Study in Scarlet']	Scarlet
+['ADX Florence']	not_linked
+['AFC North']	not_linked
+['AFC South']	Carolina_Panthers
+['ALDI']	not_linked
+['ALF']	not_linked
+['AT&T Corporation']	AT&T
+['AT&T Park']	not_linked
+['AUD']	not_linked
+['Aaron Rodgers']	not_linked
+['Abarth']	not_linked
+['Abbottabad']	not_linked
+['Abdullah al-Thani']	Yasser_Arafat
+['Abraham Lincoln']	Abraham_Lincoln
+['Abraham Maslow']	not_linked
+['Abraham']	not_linked
+['Abrahamic religions']	Judaism-GB
+['Acadia University']	Acadia_University
+['Actor']	Actor-GB
+['Adam Levine']	Adam_Levine
+['Adam Morrison']	not_linked
+['Adam Reed']	not_linked
+['Adam Sandler']	Adam_Sandler
+['Adam Smith']	Adam_Smith
+['Addis Ababa']	Addis_Ababa
+['Adolf Hitler']	Adolf_Hitler
+['Adrian Peterson']	not_linked
+['Adriatic Sea']	Adriatic_Sea
+['Afghan afghani']	not_linked
+['Afghanistan']	Afghanistan
+['Africa']	Africa
+['African American']	African_American
+['African Union']	African_Union
+['Afrikaans Language']	Afrikaans_Language
+['Afro-Guyanese']	not_linked
+['Agatha Christie']	Agatha_Christie
+['Aidan Davis']	not_linked
+['Aidan Quinn']	Aidan_Quinn
+['AirTran Airways']	Pan_American_World_Airways
+['Akihito']	not_linked
+['Akkad']	not_linked
+['Akkadian Empire']	not_linked
+['Akkadian language']	not_linked
+['Al Capone']	not_linked
+['Al Gore']	Al_Gore
+['Al-Qaeda']	al-Qaeda
+['Alabama']	Alabama
+['Alan Thicke']	Alan_Thicke
+['Alan']	not_linked
+['Alaska']	Alaska
+['Albania']	Albania
+['Albany High School']	Stuyvesant_High_School
+['Albert Brooks']	Albert_Brooks
+['Albert Einstein']	Albert_Einstein
+['Albert Pujols']	not_linked
+['Albert Speer']	not_linked
+['Albert, Prince Consort']	not_linked
+['Alberta']	Alberta
+['Alderaan']	not_linked
+['Alejandra Amarilla']	not_linked
+['Alex Borstein']	Alex_Borstein
+['Alex Chilton']	not_linked
+['Alex Rodriguez']	Alex_Rodriguez
+['Alex Smith']	not_linked
+['Alexander Graham Bell']	William_J._Bell
+['Alexander Luthor']	not_linked
+['Alexandra of Denmark']	not_linked
+['Alexandria']	Alexandria
+['Alfonso Ribeiro']	not_linked
+['Algeria']	Algeria
+['Alice Kim']	not_linked
+['Alice Stokes Paul']	not_linked
+['Alice Walker']	not_linked
+['Aliso Viejo']	Vallejo
+['Allen Iverson']	Allen_Iverson
+['Alltel']	not_linked
+['Alvin Smith']	not_linked
+['Alyson Stoner']	Alyson_Stoner
+['Amanda Grayson']	not_linked
+['Amanda Seyfried']	Amanda_Seyfried
+['Amazon Kindle']	not_linked
+['Amazon River']	not_linked
+['Amazon rainforest']	not_linked
+['Amazon.com']	Amazon.com
+['Amboise']	not_linked
+['Amelia Earhart']	Amelia
+['American Bulldog']	Bulldog
+['American Express']	not_linked
+['American Federation of Labor']	not_linked
+['American Football League']	National_Football_League
+['American Idol - Season 5']	not_linked
+['American League West']	National_League
+['American League']	National_League
+['American Red Cross']	not_linked
+['American Revolutionary War']	American_Revolutionary_War
+['American football player']	Football_player
+['Amsterdam']	Amsterdam
+['Amy Adams']	Amy_Adams
+['Amy Grant']	Amy_Grant
+['Anaheim']	Anaheim
+['Anakin Skywalker']	not_linked
+['Anal cancer']	not_linked
+['Ancestral Puebloans']	Indigenous_peoples_of_the_Americas
+['Ancient Egypt']	not_linked
+['Ancient Greek temple']	not_linked
+['Anders Celsius']	not_linked
+['Anderson Cooper 360°']	not_linked
+['Anderson Cooper']	not_linked
+['Anderson Silva']	not_linked
+['Andes']	Andes
+['Andreas Vesalius']	not_linked
+['Andrew Carnegie']	not_linked
+['Andrew Cuomo']	Rivers_Cuomo
+['Andrew Jackson']	Andrew_Jackson
+['Andrew Johnson']	not_linked
+['Andrew Young']	not_linked
+['Andrews']	not_linked
+['Andrés Segovia']	not_linked
+['Andy Hallett']	Andy_Hallett
+['Andy Irons']	not_linked
+['Andy Murray']	not_linked
+['Andy Warhol']	Andy_Warhol
+['Andy Williams']	Andy_Williams
+['Angelina Jolie']	Angelina_Jolie
+['Anger Management']	Anger_Management
+['Anglicanism']	Anglicanism
+['Angola']	Angola
+['Ankhesenamun']	not_linked
+['Ann Romney']	not_linked
+['Anna Bligh']	not_linked
+['Anna Kendrick']	not_linked
+['Anna Nicole Smith']	Nicole_Richie
+['Anne Boleyn']	The_Other_Boleyn_Girl
+['Anne Frank']	not_linked
+['Anne Hathaway']	Anne_Hathaway
+['Annie Leibovitz']	not_linked
+['Annie Oakley']	not_linked
+['Annie']	Annie
+['Anthony Head']	not_linked
+['Anthony Kennedy']	not_linked
+['Anti-Lebanon mountains']	not_linked
+['Antoine Lavoisier']	not_linked
+['Antoni Gaudí']	Michelangelo_Antonioni
+['Antonie van Leeuwenhoek']	not_linked
+['Antonio Vivaldi']	Michelangelo_Antonioni
+['Aortic dissection']	not_linked
+['Aoyama, Minato, Tokyo']	not_linked
+['Apennine Mountains']	not_linked
+['Apostle Philip']	not_linked
+['Appalachian Mountains']	Appalachian_Mountains
+['Appalachian National Scenic Trail']	Appalachian_Mountains
+['Appendicitis']	not_linked
+['Appendix cancer']	not_linked
+['Apple Inc.']	Apple_Inc.
+['April 23']	April
+['Aquilegia caerulea']	not_linked
+['Arabic Language']	Arabic_Language
+['Arabic alphabet']	Arabic_Language
+['Arabs']	Arab_people
+['Arab–Israeli conflict']	not_linked
+['Aragorn']	not_linked
+['Archer']	not_linked
+['Area 51']	not_linked
+['Argentina']	Argentina
+['Argentine peso']	not_linked
+['Ariel']	not_linked
+['Aristotle']	Aristotle
+['Arizona Cardinals']	Arizona_Cardinals
+['Arizona Diamondbacks']	Arizona_Diamondbacks
+['Arizona State University']	Arizona_State_University
+['Arizona']	Arizona
+['Arkansas State Capitol']	Arkansas
+['Arkansas']	Arkansas
+['Arlington Municipal Airport']	Airport
+['Arlington National Cemetery']	Arlington_National_Cemetery
+['Arlington']	Arlington
+['Armenia']	Armenia
+['Armenian dram']	not_linked
+['Army Wives']	not_linked
+['Arnold Schwarzenegger']	Arnold_Schwarzenegger
+['Arsenal F.C.']	Arsenal_F.C.
+['Art Smith']	not_linked
+['Arthur Conan Doyle']	Arthur_Conan_Doyle
+['Arthur Dove']	not_linked
+['Arthur Kipps']	not_linked
+['Arthur Miller']	Arthur_Miller
+['Arthur']	not_linked
+['Artis Mills']	not_linked
+['Artistic gymnastics']	Artistic_gymnastics
+['Aruba']	Aruba
+['Aruban florin']	not_linked
+['Arwen']	not_linked
+['Asa Philip Randolph']	not_linked
+['Asenath']	not_linked
+['Ashbridges Bay Wastewater Treatment Plant']	not_linked
+['Asheville']	Asheville
+['Ashley Greene']	not_linked
+['Asia']	Asia
+['Asiana Airlines']	American_Airlines
+['Asif Ali Zardari']	not_linked
+['Associated Press Male Athlete of the Year']	Sportsman_of_the_Year
+['Association for the Study of African American Life and History']	African_National_Congress
+['Assyria']	not_linked
+['Aston Martin']	not_linked
+['Astoria Greengrass']	not_linked
+['Atheism']	Atheism
+['Atlanta Braves']	Atlanta_Braves
+['Atlanta Falcons']	Atlanta_Falcons
+['Atlanta']	Atlanta
+['Atlantic Ocean']	Atlantic_Ocean
+['Atlético Madrid']	Real_Madrid_C.F.
+['Attic Group']	not_linked
+['Atticus Finch']	Atticus_Ross
+['Auburn University']	Auburn_University
+['Audi']	not_linked
+['Audie Murphy']	not_linked
+['Audrey Hepburn']	Audrey_Hepburn
+['Augusta National Golf Course']	Augusta
+['Augustine of Hippo']	Augustine_of_Hippo
+['Augustus']	Augustus
+['Auschwitz concentration camp']	The_Holocaust
+['Austin']	Austin
+['Australia']	Australia
+['Australian Labor Party']	Australian_Labor_Party
+['Australian Open']	not_linked
+['Australian dollar']	Australian_dollar
+['Austria']	Austria
+['Author']	not_linked
+['Autocracy']	not_linked
+['Avesta']	not_linked
+['Aviano Air Base']	not_linked
+['Aviva Stadium']	not_linked
+['Avril Lavigne']	Avril_Lavigne-US
+['Axl Rose']	Axl_Rose
+['Ayaan Hirsi Ali']	Ali
+['Ayn Rand']	Ayn_Rand
+['Ayrton Senna']	Senna
+['Azerbaijan']	Azerbaijan
+['Azle']	not_linked
+['B. F. Skinner']	Frank_Skinner
+['Babe Ruth']	not_linked
+['Babylon']	not_linked
+['Bachelor of Laws']	Bachelor_of_Laws
+['Bad Teacher']	Bad_Teacher
+['Bahamas']	Bahamas
+['Bahamian dollar']	not_linked
+['Bain Capital']	not_linked
+['Bali']	Ali
+['Balkans']	Macedonia
+['Ballistic trauma']	not_linked
+['Baltic Sea']	not_linked
+['Baltic region']	not_linked
+['Baltic states']	not_linked
+['Baltimore Orioles']	Baltimore_Orioles
+['Baltimore Ravens']	Baltimore_Ravens
+['Baltimore']	Baltimore
+['Bangalore']	Bangalore
+['Bangkok']	Bangkok
+['Bank of America Corporation']	Bank_of_America_Corporation
+['Barack Obama']	Barack_Obama
+['Barack Obama, Sr.']	Barack_Obama
+['Barbadian dollar']	not_linked
+['Barbados']	Barbados
+['Barbara Bush']	not_linked
+['Barbara Eden']	not_linked
+['Barbara Gordon']	not_linked
+['Barbara Stanwyck']	Barbara_Stanwyck
+['Barbiturate overdose']	Drug_overdose
+['Barcelona']	Barcelona
+['Barcelona–El Prat Airport']	not_linked
+['Barney & Friends']	Barney's_Version
+['Baron Papanoida']	not_linked
+['Barranquilla']	not_linked
+['Barry Bonds']	not_linked
+['Barry Switzer']	not_linked
+['Barry Zito']	not_linked
+['Bart Simpson']	not_linked
+['Baseball player']	not_linked
+['Basel']	Basel
+['Bashar al-Assad']	not_linked
+['Basketball']	Basketball
+['Basque Country']	not_linked
+['Basque Language']	not_linked
+['Bass guitar']	Bass_guitar
+['Batman']	Batman
+['Battle Scars: The Bud Moore Story']	not_linked
+['Battle of Antietam']	not_linked
+['Battle of Appomattox Court House']	not_linked
+['Battle of Chancellorsville']	not_linked
+['Battle of Falmouth']	Battle_of_Britain
+['Battle of Gettysburg']	Gettysburg
+['Battle of New Orleans']	not_linked
+['Battle of Passchendaele']	Battle_of_Passchendaele
+['Battle of San Juan Hill']	not_linked
+['Battle of Shiloh']	not_linked
+['Battle of Thermopylae']	not_linked
+['Battle of Verdun']	not_linked
+['Battle of Waterloo']	Battle_of_Britain
+['Battle of the Alamo']	not_linked
+['Bavaria']	Bavaria
+['Bay City']	Bay_City
+['Baybrook Mall']	not_linked
+['Baylor University']	Baylor_University
+['Beaumont']	Beaumont
+['Beinn Bhreagh, Nova Scotia']	not_linked
+['Bel-Air']	not_linked
+['Belfast']	Belfast
+['Belgium']	Belgium
+['Belize']	Belize
+['Bella Abzug']	not_linked
+['Bella Swan']	not_linked
+['Belleville']	Belleville
+['Belmont University']	Belmont_University
+['Ben Hall']	not_linked
+['Ben Roethlisberger']	not_linked
+['Ben Stiller']	Ben_Stiller
+['Benedict Arnold']	not_linked
+['Benghazi']	not_linked
+['Benito Mussolini']	Benito_Mussolini
+['Benjamin Franklin']	Benjamin_Franklin
+['Benjamin Gannet']	not_linked
+['Bergen-Belsen concentration camp']	not_linked
+['Berklee College of Music']	Berklee_College_of_Music
+['Berlin']	Berlin
+['Bermondsey']	not_linked
+['Bernard Madoff']	not_linked
+['Bernard']	not_linked
+['Bernie Focker']	not_linked
+['Bernie Mac']	Bernie_Mac
+['Bessie Smith']	not_linked
+['Beth Tweddle']	not_linked
+['Bethany Hamilton']	Lisa_Gay_Hamilton
+['Bethel']	not_linked
+['Bethenny Frankel']	not_linked
+['Bethlehem']	Bethlehem
+['Betty Draper']	not_linked
+['Betty White']	Betty_White
+['Beveridge']	not_linked
+['Beverly Cleary']	Beverly
+['Beverly Hills, 90210 - Season 7']	Beverly_Hills,_90210
+['Beverly Hills, 90210']	Beverly_Hills,_90210
+['Bewitched']	Bewitched
+['Beyoncé Knowles']	Michelle_Williams
+['Bigos']	not_linked
+['Bill Clinton']	Bill_Clinton
+['Bill Cowher']	not_linked
+['Bill Fagerbakke']	Bill_Fagerbakke
+['Bill Gates']	not_linked
+['Bill Neukom']	not_linked
+['Bill Rancic']	not_linked
+['Bill Richardson']	Ralph_Richardson
+['Bill Ritter']	John_Ritter
+['Billy Beane']	not_linked
+['Billy Burke']	not_linked
+['Billy Dee Williams']	Billy_Dee_Williams
+['Billy Elliot']	not_linked
+['Billy']	not_linked
+['Birmingham']	Birmingham
+['Bishop Strachan School']	Catholic_school
+['Bishop']	Bishop
+['Bitterroot Mountains']	not_linked
+['Blackfoot Confederacy']	not_linked
+['Blackstreet']	not_linked
+['Blake Griffin']	not_linked
+['Blake Lively']	Blake_Lively
+['Blethen Maine Newspapers, Inc.']	not_linked
+['Blue Hills Bank Pavilion']	not_linked
+['Blue Island']	not_linked
+['Blue Ivy']	not_linked
+['Bob Barker']	not_linked
+['Bob Dylan']	Bob_Dylan
+['Bob Kelso']	not_linked
+['Bob Marley Mausoleum']	not_linked
+['Bob Marley']	Bob_Marley
+['Bob McDonnell']	not_linked
+['Bob Ross']	not_linked
+['Bobby Darin']	Bobby_Darin
+['Boeing']	Boeing
+['Bolivia']	Bolivia
+['Bollington']	not_linked
+['Bonn']	Bonn
+['Book of Revelation']	not_linked
+['Boris Johnson']	not_linked
+['Boris Yeltsin']	not_linked
+['Bosnia and Herzegovina']	Bosnia_and_Herzegovina
+['Boston Bruins']	Boston_Bruins
+['Boston Celtics']	Boston_Celtics
+['Boston Harbor']	not_linked
+['Boston Latin School']	Boston_Latin_School
+['Boston Red Sox']	Boston_Red_Sox
+['Boston Redskins']	Washington_Redskins
+['Boston Tea Party']	not_linked
+['Boston University']	Boston_University
+['Boston']	Boston
+['Botanist']	not_linked
+['Boucherville']	not_linked
+['Boudica']	not_linked
+['Brad Paisley']	Brad_Paisley
+['Brad Pitt']	Brad_Pitt
+['Bradenton']	Bradenton
+['Bradley Cooper']	Bradley_Cooper
+['Bradley Walsh']	not_linked
+['Brandi Glanville']	not_linked
+['Brandon Dubinsky']	not_linked
+['Brandon Jacobs']	not_linked
+['Brandon Roy']	not_linked
+['Brandt Snedeker']	not_linked
+['Brasília']	not_linked
+['Brazil national football team']	Brazil_national_football_team
+['Brazil']	Brazil
+['Brazilian real']	not_linked
+['Bree Tanner']	not_linked
+['Brembo']	not_linked
+['Bremerton']	Bremerton
+['Brenda Seagal']	not_linked
+['Brenda Song']	not_linked
+['Brentwood']	not_linked
+['Brett Favre']	Brett_Favre
+['Brett Gardner']	not_linked
+['Brian Dawkins']	Richard_Dawkins
+['Brian Williams']	not_linked
+['Bridgit Mendler']	not_linked
+['Brigham Young University']	Brigham_Young_University
+['Bright House Field']	not_linked
+['Bristol City F.C.']	Bristol_City_F.C.
+['Bristol Palin']	Sarah_Palin
+['British America']	not_linked
+['British Columbia']	British_Columbia
+['Britney Spears']	Britney_Spears
+['Britt McKillip']	not_linked
+['Brittany Murphy']	Brittany_Murphy
+['Brody Jenner']	Brody_Jenner
+['Bronze']	not_linked
+['Brookline']	Brookline
+['Brooklyn Nets']	Brooklyn_Nets
+['Brooklyn']	Brooklyn
+['Bruce Arians']	not_linked
+['Bruce Lee']	Bruce_Lee
+['Bruce Wayne']	not_linked
+['Brussels']	Brussels
+['Brythonic Group']	not_linked
+['Buddhism']	Buddhism
+['Buenos Aires']	Buenos_Aires
+['Bungie']	not_linked
+['Burj Khalifa']	not_linked
+['Burmese Language']	not_linked
+['Burmese cat']	not_linked
+['Burne Hogarth']	not_linked
+['Burundi']	Burundi
+['Busch Stadium']	not_linked
+['Bush']	Bus
+['Bushey Meads School']	Gresham's_School
+['Bushranger']	not_linked
+['Buzz Williams']	not_linked
+['Byron Scott']	not_linked
+['Byzantine Empire']	Byzantine_Empire
+['Béla Fleck and the Flecktones']	not_linked
+['C. S. Lewis']	C._S._Lewis
+['CNN']	CNN
+['Cairo']	Cairo
+['Caitlyn Geller']	not_linked
+['Caitlyn Jenner']	not_linked
+['Caius']	not_linked
+['Calabria']	Calabria
+['Caldicott School']	not_linked
+['Calgary']	Calgary
+['California Substance Abuse Treatment Facility and State Prison, Corcoran']	not_linked
+['California grizzly bear']	not_linked
+['California']	California
+['Callista Gingrich']	not_linked
+['Calvin Coolidge']	Theodore_Roosevelt
+['Cam Newton']	not_linked
+['Cambodia']	Cambodia
+['Cameron Crowe']	Cameron_Crowe
+['Camille Grammer']	not_linked
+['Canada']	Canada
+['Canadian County']	Ontario_County
+['Canadian dollar']	Canadian_dollar
+['Canadian province']	Alberta
+['Cancer']	Cancer
+['Cancún International Airport']	not_linked
+['Cancún']	not_linked
+['Candace']	not_linked
+['Candice Crawford']	not_linked
+['Cardiac arrest']	Cardiac_arrest
+['Cardinal']	Cardinal
+['Cardiovascular disease']	Cardiovascular_disease
+['Caribbean']	Caribbean
+['Carl Edwards']	not_linked
+['Carl Linnaeus']	not_linked
+['Carl Wilson']	not_linked
+['Carlos Boozer']	not_linked
+['Carlos Peña']	Carlos_Ruiz
+['Carlos Santana']	Carlos_Santana
+['Carlton Banks']	not_linked
+['Carmel High School']	New_Trier_High_School
+['Carmelo Anthony']	Carmelo_Anthony
+['Carmen Electra']	Carmen_Electra
+['Carolina Hurricanes']	Carolina_Hurricanes
+['Carolina Panthers']	Carolina_Panthers
+['Caroline Kennedy']	Kathleen_Kennedy
+['Carpathian Mountains']	not_linked
+['Carrie Fisher']	Carrie_Fisher
+['Carrie Underwood']	Carrie_Underwood
+['Carter G. Woodson']	not_linked
+['Carthage']	Carthage
+['Cass County']	Cass_County
+['Cassie Bernall']	not_linked
+['Castilian Group']	not_linked
+['Castilleja de la Cuesta']	not_linked
+['Catalonia']	Catalonia
+['Catherine Tate']	Catherine_Tate
+['Catherine of Aragon']	not_linked
+['Catherine, Duchess of Cambridge']	not_linked
+['Catholicism']	Catholicism
+['Cave of the Patriarchs']	not_linked
+['Cayman Islands']	Cayman_Islands
+['Central African CFA franc']	not_linked
+['Central America']	Latin_America
+['Central European Time Zone']	Central_European_Time_Zone-US
+['Central Federal District']	not_linked
+['Central Time Zone']	Central_Time_Zone
+['CenturyLink Field']	not_linked
+['Cercle Artístic de Sant Lluc']	not_linked
+['Cerebral edema']	Cerebral_hemorrhage
+['Cerebral hemorrhage']	Cerebral_hemorrhage
+['Cerro Gordo County']	Santa_Fe_County
+['Cervical cancer']	not_linked
+['Chad Michael Murray']	not_linked
+['Chalmette']	not_linked
+['Channing Tatum']	Channing_Tatum
+['Charlemagne']	not_linked
+['Charles Babbage']	not_linked
+['Charles Barkley']	not_linked
+['Charles City County']	Charles_County
+['Charles Darwin']	Charles_Darwin
+['Charles Dickens']	Charles_Dickens
+['Charles Edward Stuart']	not_linked
+['Charles Philip Arthur George']	not_linked
+['Charles R. Drew']	not_linked
+['Charles W. Fairbanks']	Douglas_Fairbanks
+['Charles, Prince of Wales']	Charles,_Prince_of_Wales
+['Charlie Chaplin']	Charlie_Chaplin
+['Charlie Hunnam']	not_linked
+['Charlie Sheen']	Charlie_Sheen
+['Charlotte Hornets']	Charlotte_Bobcats
+['Charlotte']	Charlotte
+['Charlottesville']	Charlottesville
+['Charlton Heston']	Charlton_Heston
+['Chase Field']	not_linked
+['Checotah']	not_linked
+['Cheers']	Cheers
+['Chelsea F.C.']	Chelsea_F.C.
+['Chelsea Kane']	not_linked
+['Cheltenham Gold Cup']	not_linked
+['Cher']	Cher
+['Chesapeake Bay Bridge']	Golden_Gate_Bridge
+['Chesapeake Bay']	Chesapeake
+['Chesapeake Energy Arena']	not_linked
+['Chester A. Arthur']	Arthur_Kennedy
+['Chicago Bears']	Chicago_Bears
+['Chicago Blackhawks']	Chicago_Blackhawks
+['Chicago Bulls']	Chicago_Bulls
+['Chicago Cubs']	Chicago_Cubs
+['Chicago White Sox']	Chicago_White_Sox
+['Chicago']	Chicago
+['Chick Hicks']	not_linked
+['Chickasaw']	not_linked
+['Chief Justice of the United States']	not_linked
+['Chiefs']	Kansas_City_Chiefs
+['Children of a Lesser God']	not_linked
+['Chile']	Chile
+['Chilean peso']	not_linked
+['China']	China
+['Chinese language']	Chinese_language
+['Chipper Jones']	not_linked
+['Chowchilla']	not_linked
+['Chris Colfer']	Chris_Colfer
+['Chris Cooley']	not_linked
+['Chris Farley']	not_linked
+['Chris Hemsworth']	not_linked
+['Chris Humphrey']	not_linked
+['Chris Ivery']	not_linked
+['Chris Paul']	Chris_Paul
+['Chris Riley']	not_linked
+['Chris Rock']	Chris_Rock
+['Chrissy Teigen']	not_linked
+['Christchurch']	Christchurch
+['Christiaan Barnard']	not_linked
+['Christian Bale']	Christian_Bale
+['Christian Grey']	not_linked
+['Christianity']	Christianity
+['Christina Aguilera']	Christina_Aguilera
+['Christine Gregoire']	not_linked
+['Christopher Columbus']	Christopher_Columbus
+['Christopher Emmanuel Paul II']	not_linked
+['Christopher Lee']	Christopher_Lee
+['Christopher Plummer']	Christopher_Plummer
+['Christy Oglevee']	not_linked
+['Chrysler Group LLC']	Chrysler_Group_LLC
+['Chuck Hughes']	not_linked
+['Chuck Pagano']	not_linked
+['Chula Vista High School']	Beverly_Hills_High_School
+['Cincinnati Bengals']	Cincinnati_Bengals
+['Cincinnati Reds']	Cincinnati_Reds
+['Cincinnati']	Cincinnati
+['Cindy Sherman']	not_linked
+['City of Brussels']	Brussels
+['City of David']	not_linked
+['Claire Danes']	Claire_Danes
+['Clara Barton']	not_linked
+['Clarksville']	not_linked
+['Claude Debussy']	Claude_Debussy
+['Claude Monet']	not_linked
+['Claudius']	not_linked
+['Clay Matthews III']	not_linked
+['Clearwater Air Park']	Clearwater
+['Clearwater']	Clearwater
+['Clemson University']	Clemson_University
+['Cleopatra']	Cleopatra
+['Cletus Hogg']	not_linked
+['Cleveland Browns']	Cleveland_Browns
+['Cleveland Cavaliers']	Cleveland_Cavaliers
+['Cleveland Indians']	Cleveland_Indians
+['Cleveland']	Cleveland
+['Cliff Lee']	not_linked
+['Clutch']	not_linked
+['Coca-Cola']	The_Coca-Cola_Company
+['Cocaine overdose']	Drug_overdose
+['Colin Kaepernick']	not_linked
+['College/University']	University
+['CollegeHumor']	not_linked
+['Colombia']	Colombia
+['Colonel Sanders']	not_linked
+['Colorado Eagles']	Eagles
+['Colorado River']	Missouri_River
+['Colorado Springs']	Colorado_Springs
+['Colorado Technical University']	University_of_Northern_Colorado
+['Colorado']	Colorado
+['Colosseum']	not_linked
+['Columbia Lake']	Columbia_River
+['Columbia River']	Columbia_River
+['Columbia University']	Columbia_University
+['Columbia']	Columbia
+['Columbine High School']	Bowling_for_Columbine
+['Columbus Blue Jackets']	Columbus_Blue_Jackets
+['Come Clean']	not_linked
+['Communist Party of China']	Communist_Party_of_China
+['Concord']	Concord
+['Congo']	Congo
+['Connecticut River']	Hudson_River
+['Connecticut']	Connecticut
+['Conquistador']	not_linked
+['Constantine the Great']	Constantine
+['Constantinople']	Constantinople
+['Consulting Detective']	not_linked
+['Cootamundra']	not_linked
+['Copenhagen']	Copenhagen
+['Cordova']	not_linked
+['Coretta Scott King']	not_linked
+['Corey Feldman']	Corey_Feldman
+['Corey Haim']	not_linked
+['Corey Taylor']	Noah_Taylor
+['Cornell University']	Cornell_University
+['Cornish']	not_linked
+['Coronation Street']	Coronation_Street
+['Corvallis']	Corvallis
+['Costa Rica']	Costa_Rica
+['Costa Rican colón']	not_linked
+['Cote de Pablo']	not_linked
+['County Kildare']	County_Kildare
+['Courtney Laine Mazza']	not_linked
+['Cranbrook Schools']	Charterhouse_School
+['Crimean War']	Crimean_War
+['Crimson']	Crimson
+['Cristiano Ronaldo']	Ronaldo
+['Croatia']	Croatia
+['Croatian kuna']	Croatian_language
+['Cromford']	Romford
+['Cuba']	Cuba
+['Cuban Missile Crisis']	not_linked
+['Cultural geography']	Geography
+['Cyclone Nargis']	not_linked
+['Cyprus']	Cyprus
+['Czech Republic']	Czech_Republic
+['Czech koruna']	not_linked
+['Czechoslovakia']	Czechoslovakia
+['Daddy Yankee']	Daddy_Yankee
+['Daegu Baseball Stadium']	not_linked
+['Daisy Duck']	not_linked
+['Dakota County']	Dakota_County
+['Dale Earnhardt']	not_linked
+['Dallas Cowboys']	Dallas_Cowboys
+['Dallas Mavericks']	Dallas_Mavericks
+['Dallas']	Dallas
+['Damascus University']	American_University_of_Beirut
+['Damon Thomas']	not_linked
+['Dan Cody']	not_linked
+['Dan White']	not_linked
+['Dana Scully']	Mike_Scully
+['Daniel Craig']	Daniel_Craig
+['Daniel Gibson']	not_linked
+['Daniel Larusso']	not_linked
+['Daniel Moder']	not_linked
+['Daniel']	not_linked
+['Daniela Bobadilla']	not_linked
+['Daniela Sea']	not_linked
+['Danielle Deleasa']	not_linked
+['Danielle Rousseau']	not_linked
+['Danish Language']	Danish_Language
+['Danneel Ackles']	not_linked
+['Danny Ainge']	not_linked
+['Dante Falconeri']	not_linked
+['Darfur']	not_linked
+['Darrington']	not_linked
+['Darth Vader']	not_linked
+['Daryl Sabara']	not_linked
+['Dave Ramsey']	not_linked
+['Davenport']	Davenport
+['David Beckham']	David_Beckham
+['David Burtka']	not_linked
+['David Carr']	not_linked
+['David Carradine']	David_Carradine
+['David Duchovny']	David_Duchovny
+['David Duke']	not_linked
+['David James']	not_linked
+['David Lewis']	Geoffrey_Lewis
+['David Luiz']	not_linked
+['David Ruffin']	not_linked
+['David Silver']	David_Silverman
+['David Villa']	not_linked
+['David Wenham']	David_Wenham
+['David']	not_linked
+['Dawn French']	Dawn_French
+['Dawood Ibrahim']	not_linked
+['Daytona Beach']	Daytona_Beach
+['Dead Sea']	not_linked
+['Deanna Hummel']	not_linked
+['Death of Caylee Anthony']	not_linked
+['Death the Kid']	not_linked
+['Debbie Dingle']	not_linked
+['Deborah Read']	not_linked
+['Deborah Sampson']	not_linked
+['Decapitation']	not_linked
+['Deion Sanders']	Deion_Sanders
+['Delaware River']	Ohio_River
+['Delaware']	Delaware
+['Delegate to the Continental Congress']	First_Continental_Congress
+['Delhi']	Delhi
+['Dell']	Dell
+['Demeter']	not_linked
+['Demi Lovato']	Demi_Lovato
+['Democratic Party']	Democratic_Party
+['Democratic-Republican Party']	Democratic-Republican_Party
+['Denethor II']	not_linked
+['Denise van Outen']	not_linked
+['Denison']	not_linked
+['Denmark']	not_linked
+['Dennis Rodman']	Dennis_Rodman
+['Denver Broncos']	Denver_Broncos
+['Denver International Airport']	Airport
+['Denver']	Denver
+['Derek Fisher']	not_linked
+['Derrick Rose']	not_linked
+['Des Moines']	Des_Moines
+['Desperate Housewives']	Desperate_Housewives
+['Destin']	not_linked
+['Destin–Fort Walton Beach Airport']	not_linked
+['Detroit Pistons']	Detroit_Pistons
+['Detroit Tigers']	Detroit_Tigers
+['Detroit']	Detroit
+['Devon Sawa']	not_linked
+['Diamond']	not_linked
+['Diana Ross']	Diana_Ross
+['Diana Taurasi']	not_linked
+['Diane Addonizio']	not_linked
+['Dick Cheney']	Dick_Cheney
+['Didier Drogba']	not_linked
+['Diego Forlán']	not_linked
+['Diego Rivera']	not_linked
+['Diego Velázquez']	not_linked
+['Dieppe']	not_linked
+['Dilma Rousseff']	not_linked
+['Diocletian']	not_linked
+['Dirk Nowitzki']	not_linked
+['Disaster-affected structure']	not_linked
+['Diwali']	not_linked
+['Dmitri Mendeleev']	Dmitri_Shostakovich
+['Doc Holliday']	not_linked
+['Doc Martin']	not_linked
+['Dog']	Dog
+['Dolly Parton']	Dolly_Parton
+['Dominic Zamprogna']	not_linked
+['Dominican Republic']	Dominican_Republic
+['Dominican peso']	not_linked
+['Don Bradman']	not_linked
+['Don Draper']	not_linked
+['Don King']	not_linked
+['Donald Duck']	not_linked
+['Donald Trump']	Donald_Trump
+['Donna Noble']	not_linked
+['Donna Summer']	Donna_Summer
+['Donnatella Moss']	not_linked
+['Doornfontein']	not_linked
+['Doris Haynes']	Doris_Day
+['Dory']	not_linked
+['Doug Williams']	not_linked
+['Douglas Engelbart']	not_linked
+['Douglas MacArthur']	Douglas_MacArthur
+['Down House']	not_linked
+['Draco Malfoy']	not_linked
+['Drew Barrymore']	Drew_Barrymore
+['Drew Bledsoe']	not_linked
+['Drew Brees']	not_linked
+['Drew Gordon']	not_linked
+['Drew Stanton']	Andrew_Stanton
+['Drug overdose']	Drug_overdose
+['Drums']	Drum
+['Drunk on You']	not_linked
+['Duane Allman']	Gregg_Allman
+['Dubai']	Dubai
+['Dublin']	Dublin
+['Duffy']	not_linked
+['Duke Ellington']	Duke_Ellington
+['Duluth']	Duluth
+['Dulwich']	not_linked
+['Dunbar High School']	Lowell_High_School
+['Duncan Bannatyne']	not_linked
+['Dunkirk']	not_linked
+['Dustin Hoffman']	Dustin_Hoffman
+['Dustin Johnson']	not_linked
+['Dwayne Johnson']	Dwayne_Johnson
+['Dwayne Michael Carter, Jr.']	Chris_Carter
+['Dwight D. Eisenhower']	Dwight_D._Eisenhower
+['Dwight Howard']	not_linked
+['Dwyane Wade']	Dwyane_Wade
+['East China Sea']	not_linked
+['East Harlem']	Harlem
+['East Meadow']	not_linked
+['Eastern Europe']	Eastern_Europe
+['Eastern Illinois University']	Eastern_Illinois_University
+['Eastern Time Zone']	Eastern_Time_Zone
+['Easton']	Easton
+['Echuca']	not_linked
+['Ecuador']	Ecuador
+['Ed Westwick']	not_linked
+['Eddie Bravo']	not_linked
+['Eddie Cibrian']	not_linked
+['Edgar Allan Poe']	Edgar_Allan_Poe
+['Edmonton Oilers']	Edmonton_Oilers
+['Eduardo Paolozzi']	not_linked
+['Educator']	not_linked
+['Edward Elric']	Edward_Elgar
+['Edward Jenner']	not_linked
+['Edward Jones Dome']	not_linked
+['Edward Quartermaine']	not_linked
+['Edward Scissorhands']	Edward_Scissorhands
+['Edward VI of England']	Edward_VII
+['Edward VII']	Edward_VII
+['Edwin Jarvis']	not_linked
+['Egypt']	Egypt
+['Egyptian pound']	not_linked
+['Egyptian pyramids']	not_linked
+['El Salvador']	El_Salvador
+['Elaine Benes']	not_linked
+['Eleanor Roosevelt']	Eleanor_Roosevelt
+['Electoral district of South Brisbane']	Liberal_National_Party_of_Queensland
+['Electrolux']	not_linked
+['Electron']	Electro
+['Elena Gilbert']	not_linked
+['Eli Whitney']	not_linked
+['Elie Wiesel']	not_linked
+['Elijah McCoy']	not_linked
+['Elizabeth Ann Seton']	Elizabeth_I
+['Elizabeth Huberdeau']	Elizabeth
+['Elizabeth I of England']	Elizabeth_I
+['Elizabeth II']	Elizabeth_II
+['Elizabeth Montgomery']	not_linked
+['Elizabeth Taylor']	Elizabeth_Taylor
+['Elizabeth']	Elizabeth
+['Elizabethtown']	not_linked
+['Ella Fitzgerald']	Ella_Fitzgerald
+['Elle Greenaway']	not_linked
+['Ellen Burstyn']	Ellen_Burstyn
+['Ellen Dow']	not_linked
+['Ellis Park Stadium']	not_linked
+['Elmira']	Elmira
+['Elsa Pataky']	not_linked
+['Elton John']	Elton_John
+['Elvis Costello']	Elvis_Costello
+['Elvis Presley']	Elvis_Presley
+['Emile Heskey']	not_linked
+['Emile Hirsch']	Emile_Hirsch
+['Emilie de Ravin']	Emilie_de_Ravin
+['Emily Brontë']	not_linked
+['Emily Dickinson']	not_linked
+['Emily Murphy']	not_linked
+['Emily Osment']	Emily_Osment
+['Eminem']	Eminem
+['Emma Darwin']	not_linked
+['Emma Frost']	not_linked
+['Emma Stone']	Emma_Stone
+['Emma Watson']	Emma_Watson
+['Emmitt Smith']	not_linked
+['Emsley A. Laney High School']	Stuyvesant_High_School
+['England national under-21 football team']	England_national_football_team
+['England']	England
+['English Language']	English_Language
+['Ense petit placidam sub libertate quietem']	not_linked
+['Eric Cantor']	not_linked
+['Eric Cartman']	not_linked
+['Eric Clapton']	Eric_Clapton
+['Eric Johnson']	not_linked
+['Eric Lloyd']	not_linked
+['Eric Northman']	not_linked
+['Erin Brockovich']	Erin_Brockovich
+['Erin Everly']	not_linked
+['Ernest Hemingway']	Ernest_Hemingway
+['Ernest Rutherford']	Ernest_Rutherford
+['Essen']	Essen
+['Essex']	Essex
+['Esther Hicks']	not_linked
+['Esther']	not_linked
+['Ethiopia']	Ethiopia
+['Etta James']	Etta_James
+['Eugene']	Eugene
+['Eurasia']	Eurasia
+['Euro']	Euro
+['Europe']	Europe
+['European Union']	European_Union_Member_States
+['Euthanasia']	not_linked
+['Eva Perón']	not_linked
+['Evelyn Simmons']	not_linked
+['Everton F.C.']	Everton_F.C.
+['Every 4 Years']	not_linked
+['Ewan McGregor']	Ewan_McGregor
+['Explorer']	not_linked
+['F. Scott Fitzgerald']	F._Scott_Fitzgerald
+['FA Cup']	not_linked
+['FC Barcelona']	FC_Barcelona
+['FC Schalke 04']	FC_Schalke_04
+['FIFA World Cup']	not_linked
+['FV Cornelia Marie']	not_linked
+['Fabio Capello']	not_linked
+['Facebook']	Facebook,_Inc.
+['Facebook, Inc.']	Facebook,_Inc.
+['Fairfax']	Fairfax
+['Fairfield']	Fairfield
+['Falkland Islands']	Falkland_Islands
+['Family Guy']	Family_Guy
+['Farrah Fawcett']	Farrah_Fawcett
+['Fashion design']	Fashion_Institute_of_Technology
+['Fashion designer']	Designer
+['Fearless Tour']	not_linked
+['FedEx Cup']	not_linked
+['Federal Reserve System']	not_linked
+['Fela Kuti']	not_linked
+['Felicity Huffman']	Felicity_Huffman
+['Felipe Calderón']	not_linked
+['Felipe VI of Spain']	not_linked
+['Fender Jag-Stang']	not_linked
+['Fender Stratocaster']	not_linked
+['Ferdinand Lewis Alcindor, Jr.']	not_linked
+['Ferdinand Magellan']	Christopher_Columbus:_The_Discovery
+['Fever']	Fever
+['Fiji']	Fiji
+['Finding Nemo']	Finding_Nemo
+['Finland']	Finland
+['Firearm']	Firearm
+['Firefox']	not_linked
+['First Lady']	First_Lady
+['Flag of Colorado']	not_linked
+['Flag of Ghana']	Ghana_national_football_team
+['Flemish people']	Dutch_people
+['Flintridge Preparatory School']	Gresham's_School
+['Florence Griffith Joyner']	not_linked
+['Florence R. Sabin']	not_linked
+['Florence']	Florence
+['Florida Gators football']	Florida_Gators_football
+['Florida Panthers']	Florida_Panthers
+['Florida State University']	Florida_State_University
+['Florida']	Florida
+['Football League Cup']	Football_League_Championship
+['Football']	Football
+['Ford Motor Company']	Ford_Motor_Company
+['Fordham University']	Fordham_University
+['Forgetting Sarah Marshall']	Forgetting_Sarah_Marshall
+['Fort Stockton']	not_linked
+['Four Christmases']	not_linked
+['Four Corners']	not_linked
+['France']	France
+['Frances Hodgson Burnett']	not_linked
+['Francis Avent Gumm']	not_linked
+['Francis Bacon']	Francis_Bacon
+['Francis Drake']	not_linked
+['Francis of Assisi']	not_linked
+['Francisco Vázquez de Coronado']	Miguel_de_Cervantes
+['Franco']	not_linked
+['Frank E. Butler']	not_linked
+['Frank Lloyd Wright']	Frank_Lloyd_Wright
+['Frankfort']	Frankfort
+['Frankfurt']	Frankfurt
+['Frankie Lymon']	not_linked
+['Franklin D. Roosevelt']	Franklin_D._Roosevelt
+['Franklin Pierce']	not_linked
+['Franklin stove']	not_linked
+['Franz Ferdinand']	not_linked
+['François Hollande']	not_linked
+['Fred Claus']	not_linked
+['Fred Davis']	not_linked
+['Fred Durst']	Fred_Durst
+['Fred Goodwin']	not_linked
+['Fred Karger']	not_linked
+['Fred West']	not_linked
+['Freddy Krueger']	not_linked
+['Frederic Thiebaud']	not_linked
+['Frederick County']	Frederick_County
+['Frederick Douglass']	not_linked
+['Frederick Stanley, 16th Earl of Derby']	not_linked
+['Frederick']	Frederick
+['Fredrik Ljungberg']	not_linked
+['French Alps']	Alps
+['French Group']	not_linked
+['French presidential election, 2012']	not_linked
+['French']	French_Language
+['Fresno']	Fresno
+['Frida Kahlo']	not_linked
+['Fringe']	Fringe
+['Fukushima Daiichi Nuclear Power Plant']	Fukushima_Prefecture
+['Fukushima']	Fukushima_Prefecture
+['Fulham F.C.']	Fulham_F.C.
+['Fulham']	Fulham
+['Fábio Aurélio']	not_linked
+['GEICO']	not_linked
+['Gabriel Fauré']	not_linked
+['Galileo Galilei']	Galileo_Galilei
+['Gallipoli Campaign']	Gallipoli_Campaign
+['Gallipoli']	Gallipoli
+['Galway']	Galway
+['Galápagos Islands']	not_linked
+['Gardasil']	not_linked
+['Gareth Southgate']	not_linked
+['Garry Trudeau']	not_linked
+['Garth Brooks']	Garth_Brooks
+['Gary Chapman']	Michael_Chapman
+['Gary Coleman']	not_linked
+['Gary Paulsen']	not_linked
+['Gary']	Gary
+['Gautama Buddha']	Gautama_Buddha
+['Gauteng']	not_linked
+['Gaza Strip']	Mandatory_Palestine
+['Gelsenkirchen']	Gelderland
+['Gene Hackman']	Gene_Hackman
+['General Hospital']	General_Hospital
+['General Motors']	General_Motors
+['Genoa']	Genoa
+['George Clinton']	George_Clinton
+['George Eastman']	not_linked
+['George F. L. Charles Airport']	not_linked
+['George H. W. Bush']	George_H._W._Bush
+['George Harrison']	George_Harrison
+['George Jones']	not_linked
+['George Lopez']	George_Lopez
+['George Lucas']	George_Lucas
+['George McFly']	not_linked
+['George Michael']	George_Michael
+['George Orwell']	George_Orwell
+['George P. Wilbur']	not_linked
+['George Soros']	not_linked
+['George Steinbrenner']	not_linked
+['George V']	George_V
+['George VI']	George_V
+['George W. Bush']	George_W._Bush
+['George Washington Carver']	George_Washington
+['George Washington High School']	Stuyvesant_High_School
+['George Washington University']	George_Washington_University
+['George Washington']	George_Washington
+['George Wilson']	not_linked
+['Georges Clémenceau']	not_linked
+['Georgia']	Georgia
+['Gerald Ford']	Gerald_Ford
+['Gerard Butler']	Gerard_Butler
+['German Language']	German_Language
+['Germany']	Germany
+['Gettysburg Address']	not_linked
+['Gettysburg']	Gettysburg
+['Ghana']	Ghana
+['Ghost Rider']	Ghost_Rider
+['Gianna']	not_linked
+['Gibby Haynes']	not_linked
+['Gibson Les Paul']	Guitar
+['Gilbert Gottfried']	Gilbert_Gottfried
+['Gilda Radner']	not_linked
+['Gillette Stadium']	not_linked
+['Gillian Anderson']	Gillian_Anderson
+['Gimli']	not_linked
+['Giovanni Battista Piranesi']	Pier_Paolo_Pasolini
+['Giovanni Pierluigi da Palestrina']	not_linked
+['Giovanni da Verrazzano']	Gioacchino_Rossini
+['Giuliana Rancic']	not_linked
+['Giza Necropolis']	not_linked
+['Giza Plateau']	not_linked
+['Glasgow']	Glasgow
+['Glastonbury']	not_linked
+['Glen Dale']	not_linked
+['Glendale']	Glendale
+['Glenn Close']	Glenn_Close
+['Gloin']	not_linked
+['Gloria Steinem']	Gertrude_Stein
+['Gobi Desert']	not_linked
+['Gold Coast']	Gold_Coast
+['Golden Hind']	not_linked
+['Golden State Warriors']	Golden_State_Warriors
+['Golf']	Golf
+['Golfer']	Golf
+['Gonzaga University']	Gonzaga_University
+['Google']	Google
+['Googleplex']	not_linked
+['Gordon Brown']	Gordon_Brown
+['Gospel of John']	John_5
+['Governor of Hawaii']	Governor_of_Massachusetts
+['Governor of Indiana']	not_linked
+['Governor of Kentucky']	Governor_of_Massachusetts
+['Governor of Massachusetts']	Governor_of_Massachusetts
+['Governor of Oregon']	not_linked
+['Governor of Washington']	Governor_of_Massachusetts
+['Grady Memorial Hospital']	not_linked
+['Grammy Award for Best Comedy Album']	Grammy_Award_for_Best_Comedy_Album
+['Grand Bahama']	not_linked
+['Grand Canyon']	not_linked
+['Grand Prairie']	not_linked
+['Grand Prix motorcycle racing']	not_linked
+['Granville Woods']	not_linked
+['Grease']	Grease
+['Great Britain']	Great_Britain
+['Great Lakes']	Lake_Superior
+['Great Pyramid of Giza']	not_linked
+['Greater Cairo']	Cairo
+['Greece']	Greece
+['Greek Language']	Greek_Language
+['Greek alphabet']	Greek_Language
+['Greeley']	not_linked
+['Green Bay Packers Board of Directors']	not_linked
+['Green Bay Packers']	Green_Bay_Packers
+['Greenland']	Greenland
+['Greenpeace']	Green_Party_of_the_United_States
+['Greensburg']	Greensburg
+['Greenwich Mean Time Zone']	Greenwich_Mean_Time_Zone
+['Gregor Mendel']	not_linked
+['Gregory Peck']	Gregory_Peck
+['Greve in Chianti']	not_linked
+['Greyton, Western Cape']	Western_Cape
+['Grover Cleveland Alexander']	Grover_Cleveland
+['Grêmio Foot-Ball Porto Alegrense']	Futebol_Clube_do_Porto
+['Guam']	Guam
+['Guanajuato']	not_linked
+['Guatemala']	Guatemala
+['Guatemalan quetzal']	not_linked
+['Guilo Caboto']	not_linked
+['Guitar']	Guitar
+['Gulf War']	Gulf_War
+['Gulf of Mexico']	not_linked
+['Gulf of Saint Lawrence']	not_linked
+['Gunshot']	Gunshot
+['Guyana']	Guyana
+['HIV/AIDS']	AIDS
+['HSBC']	not_linked
+['Hackney Marshes']	Sutton_Coldfield
+['Hadrian']	not_linked
+['Hagar']	not_linked
+['Hailemariam Desalegn']	not_linked
+['Haiti']	Haiti
+['Halle Berry']	Halle_Berry
+['Halloween 4: The Return of Michael Myers']	Scary_Movie_4
+['Hammurabi']	not_linked
+['Hampton']	Hampton
+['Hanau']	not_linked
+['Handan']	not_linked
+['Hank Baskett']	not_linked
+['Hank Marvin']	not_linked
+['Hannah Montana']	Hannah_Montana:_The_Movie
+['Hanover County']	Hamilton_County
+['Hans Christian Ørsted']	not_linked
+['Hans Zimmer']	Hans_Zimmer
+['Harlem Globetrotters']	not_linked
+['Harlem Renaissance']	Harlem_Renaissance
+['Harley Quinn']	not_linked
+['Harley-Davidson Motor Company']	not_linked
+['Harlow']	Harlow
+['Harper Lee']	not_linked
+['Harriet Beecher Stowe']	not_linked
+['Harriet Tubman']	not_linked
+['Harrison Ford']	Harrison_Ford
+['Harry Potter and the Deathly Hallows']	Harry_Potter_and_the_Goblet_of_Fire
+['Harry Potter literary series']	Harry_Potter_and_the_Order_of_the_Phoenix
+['Harry Potter']	Harry_Potter_and_the_Half-Blood_Prince
+['Harry S. Truman']	Harry_S._Truman
+['Harvard University']	Harvard_University
+['Harvey Milk']	not_linked
+['Hatshepsut']	not_linked
+['Hawaii']	Hawaii
+['Hawaii-Aleutian Time Zone']	Alaska_Time_Zone
+['Hawaiian hibiscus']	not_linked
+['Hayden Christensen']	Hayden_Christensen
+['Hearing loss']	not_linked
+['Heart failure']	Heart_failure
+['Heath Barkley']	not_linked
+['Heather']	not_linked
+['Heidelberg University']	University_of_Leipzig
+['Heidi Klum']	Heidi_Klum
+['Heinrich Himmler']	not_linked
+['Heinz Field']	not_linked
+['Heisman Trophy']	Heisman_Trophy
+['Helen Flanagan']	Helen_Rose
+['Helen Keller']	Helen_Hayes
+['Helena']	Helena
+['Helix High School']	not_linked
+['Hennepin County']	Hennepin_County
+['Henri Matisse']	Henri_Matisse
+['Henri Rousseau']	Jean-Jacques_Rousseau
+['Henry Clay']	not_linked
+['Henry David Thoreau']	Henry_David_Thoreau
+['Henry Ford']	John_Ford
+['Henry Hudson']	not_linked
+['Henry Knox']	not_linked
+['Henry VII of England']	Henry_V
+['Henry VIII of England']	Henry_V
+['Henry Winkler']	Henry_Winkler
+['Hera']	not_linked
+['Herbert Hoover']	Herbert_Hoover
+['Heritage Elementary School']	not_linked
+['Herman Cain presidential campaign, 2012']	not_linked
+['Herman Cain']	Dean_Cain
+['Hermione Granger']	not_linked
+['Hernán Cortés']	Miguel_de_Cervantes
+['Heroes']	Heroes
+['Heroin overdose']	Drug_overdose
+['Highgate Cemetery']	Holy_Cross_Cemetery
+['Highgate']	not_linked
+['Hillary Rodham Clinton']	Hillary_Rodham_Clinton
+['Hillingdon']	not_linked
+['Hillsborough County']	Hillsborough_County
+['Hilo']	Hilo
+['Him/Herself']	not_linked
+['Hinduism']	Hinduism
+['Hirohito']	not_linked
+['Hockey World Cup']	not_linked
+['Hodgenville']	not_linked
+['Hollywood Cemetery']	Hollywood_Forever_Cemetery
+['Hollywood']	Hollywood
+['Holy Roman Empire']	Holy_Roman_Empire
+['Honduras']	Honduras
+['Hong Kong Time Zone']	China_Time_Zone-US
+['Hong Kong']	Hong_Kong
+['Honolulu']	Honolulu
+['Honshu']	Honshu
+['Hooked']	not_linked
+['Host']	The_Host
+['Hot Springs High School']	Beverly_Hills_High_School
+['Hotel Sax Chicago']	not_linked
+['House of Habsburg']	Habsburg_Monarchy
+['Houston Aeros']	Houston_Aeros
+['Houston Dynamo']	Houston_Dynamo
+['Houston Oilers']	Edmonton_Oilers
+['Houston Rockets']	Houston_Rockets
+['Houston']	Houston
+['How the Other Half Lives']	not_linked
+['How to Deal']	not_linked
+['Howard Carter']	not_linked
+['Howard Hughes']	Howard_Hughes
+['Howard University']	Howard_University
+['Howie Long']	not_linked
+['Hu Jintao']	not_linked
+['Hudson River']	Hudson_River
+['Huell Howser']	not_linked
+['Huey P. Newton']	not_linked
+['Hugh Dancy']	Hugh_Dancy
+['Hugh Hefner']	Hugh_Hefner
+['Hugo Chávez']	not_linked
+['Hungarian forint']	Hungarian_language
+['Hungarian language']	Hungarian_language
+['Hungary']	Hungary
+['Hurricane Irene']	The_Hurricane
+['Héctor Camacho']	not_linked
+['I Dream of Jeannie']	not_linked
+['Ian Holm']	Ian_Holm
+['Ian Michael Smith']	not_linked
+['Ian Somerhalder']	Ian_Somerhalder
+['Ibanez']	not_linked
+['Iberian Peninsula']	Iberian_Peninsula
+['Ibrahim Afellay']	not_linked
+['Ice Hockey']	Ice_Hockey
+['Ice hockey team']	American_Hockey_League
+['Iceland']	Iceland
+['Icelandic Language']	Norwegian_Language
+['Ida Saxton McKinley']	not_linked
+['Illinois House of Representatives']	House_of_Representatives
+['Illinois River']	Ohio_River
+['Illinois']	Illinois
+['In My Time: A Personal and Political Memoir']	not_linked
+['Ina Garten']	not_linked
+['India Time Zone']	Eastern_Time_Zone
+['India']	India
+['Indian National Congress']	Indian_National_Congress
+['Indian Ocean']	Indian_Ocean
+['Indiana Jones and the Raiders of the Lost Ark']	Indiana_Jones_and_the_Raiders_of_the_Lost_Ark
+['Indiana Jones']	not_linked
+['Indiana']	Indiana
+['Indianapolis Colts']	Indianapolis_Colts
+['Indianapolis']	Indianapolis
+['Indonesia']	Indonesia
+['Inglewood']	Inglewood
+['Ingolstadt']	not_linked
+['Inhalation of vomit']	Vomiting
+['Inter Milan']	Inter_Milan
+['Invasion of Normandy']	Invasion_of_Normandy
+['Inventor']	Inventor-GB
+['Inverness']	Inverness
+['Ionian Islands']	not_linked
+['Iowa']	Iowa
+['Iran']	Ran
+['Iranian peoples']	not_linked
+['Iraq War']	Iraq_War
+['Iraq']	Iraq
+['Ireland national rugby union team']	Republic_of_Ireland_national_football_team
+['Ireland']	Ireland
+['Irish people']	Irish_people
+['Irish']	Iris
+['Iroquois']	Iroquois
+['Irving Berlin']	Irving_Berlin
+['Irving Langmuir']	not_linked
+['Isaac Newton']	Isaac_Newton
+['Isabella I of Castile']	not_linked
+['Isabella of Portugal, Queen of Castile']	not_linked
+['Ishmael']	not_linked
+['Isidore Miller']	not_linked
+['Islam']	Islam
+['Islamic republic']	not_linked
+['Israel']	Israel
+['Israeli new shekel']	not_linked
+['Israeli–Palestinian conflict']	not_linked
+['Isthmus of Panama']	not_linked
+['Italia Conti Academy of Theatre Arts']	Italia_Conti_Academy_of_Theatre_Arts
+['Italian Language']	Italian_Language
+['Italian people']	Italian_people
+['Italian region']	Lombardy
+['Italica']	not_linked
+['Italy']	Italy
+['Ithaca Tompkins Regional Airport']	Airport
+['Ithaca']	Ithaca
+['Iturbide']	not_linked
+['Ivory Coast']	not_linked
+['Iván Rodríguez']	Alex_Rodriguez
+['Ixelles']	not_linked
+['Izabella St. James']	not_linked
+['J. D. Salinger']	J._D._Salinger
+['J. R. R. Tolkien']	J._R._R._Tolkien
+['J. R. Smith']	Robert_Smith
+['J.J. Abrams']	J.J._Abrams
+['JaMarcus Russell']	not_linked
+['Jack Coleman']	not_linked
+['Jack Donaghy']	not_linked
+['Jack Johnson']	not_linked
+['Jack Kevorkian']	not_linked
+['Jack London']	Jack_London
+['Jack McBrayer']	Jack_McBrayer
+['Jack Osbourne']	not_linked
+['Jack Polick']	not_linked
+['Jack Ruby']	not_linked
+['Jack Skellington']	not_linked
+['Jackie French']	not_linked
+['Jackie Robinson']	Jackie_Robinson
+['Jackie Sandler']	not_linked
+['Jackie']	not_linked
+['Jackson Browne']	Jackson_Browne
+['Jackson County']	Jackson_County
+['Jackson Pollock']	not_linked
+['Jackson']	Jackson
+['Jacksonville Jaguars']	Jacksonville_Jaguars
+['Jacksonville']	Jacksonville
+['Jacob Black']	not_linked
+['Jacob Grimm']	not_linked
+['Jacob Latimore']	not_linked
+['Jacob Riis']	not_linked
+['Jacqueline Kennedy Onassis']	not_linked
+['Jacqueline MacInnes Wood']	Jacqueline_Bisset
+['Jacques Cartier']	not_linked
+['Jada Pinkett Smith']	Jada_Pinkett_Smith
+['Jake Gyllenhaal']	Jake_Gyllenhaal
+['Jake Lloyd']	Christopher_Lloyd
+['Jamaica']	Jamaica
+['Jamaican English']	not_linked
+['Jamaican dollar']	not_linked
+['Jamar Taylor']	not_linked
+['James A. Garfield']	James_A._Garfield
+['James Anderson']	Jon_Anderson
+['James Baldwin']	James_Baldwin
+['James Chadwick']	not_linked
+['James Cook']	Peter_Cook
+['James Dean']	not_linked
+['James Dyson']	not_linked
+['James Earl Jones']	James_Earl_Jones
+['James Franco']	James_Franco
+['James Frey']	Glenn_Frey
+['James Haven']	not_linked
+['James K. Polk']	James_K._Polk
+['James Lafferty']	not_linked
+['James Madison']	James_Madison
+['James Marsters']	James_Marsters
+['James T. Kirk']	not_linked
+['James Watt']	Mike_Watt
+['Jamie Campbell Bower']	not_linked
+['Jamie Chung']	not_linked
+['Jamie Dornan']	not_linked
+['Jamie Hector']	not_linked
+['Jamie Lynn Spears']	Jamie_Lynn_Sigler
+['Jamie Oliver']	not_linked
+['Jan Brewer']	not_linked
+['Jana Gana Mana']	not_linked
+['Jane Austen']	Jane_Austen
+['Jane Goodall']	not_linked
+['Jane Krakowski']	Jane_Krakowski
+['Jane Pauley']	not_linked
+['Jane Wyman']	Jane_Wyman
+['Janel Moloney']	Janel_Moloney
+['Janelle Monae']	not_linked
+['Janesville']	not_linked
+['Japan Time Zone']	not_linked
+['Japan']	Japan
+['Japanese yen']	Japanese_yen
+['Jared Followill']	not_linked
+['Jarvis Island']	not_linked
+['Jason David Frank']	not_linked
+['Jason Hoppy']	not_linked
+['Jason Kidd']	Jason_Kidd
+['Jason Marsden']	Jason_Marsden
+['Jason Morgan']	not_linked
+['Jason Mraz']	Jason_Mraz
+['Jason Segel']	Jason_Segel
+['Jason Statham']	not_linked
+['Jason Voorhees']	not_linked
+['Jasper']	not_linked
+['Jaxon Bieber']	not_linked
+['Jay Cutler']	not_linked
+['Jay Leno']	Jay_Leno
+['Jay Moriarty']	not_linked
+['Jay-Z']	Jay-Z
+['Jayne Mansfield']	Jayne_Mansfield
+['Jean Chrétien']	not_linked
+['Jean-Jacques Rousseau']	Jean-Jacques_Rousseau
+['Jeb Bush']	not_linked
+['Jeff Corwin']	not_linked
+['Jeff Dunham']	not_linked
+['Jeff Stone']	not_linked
+['Jefferson Davis']	not_linked
+['Jeffrey Dean Morgan']	not_linked
+['Jeffrey Lurie']	not_linked
+['Jeffrey Probst']	Jeff_Probst
+['Jemaine Clement']	Jemaine_Clement
+['Jenna Dewan']	not_linked
+['Jenni Rivera']	Naya_Rivera
+['Jennifer Hudson']	Jennifer_Hudson
+['Jennifer Lawrence']	Jennifer_Lawrence
+['Jennifer Lopez']	Jennifer_Lopez
+['Jenny Shircore']	not_linked
+['Jensen Ackles']	not_linked
+['Jeremy Lin']	not_linked
+['Jeremy Renner']	Jeremy_Renner
+['Jeremy Shockey']	not_linked
+['Jeremy Sumpter']	not_linked
+['Jermaine Paul']	not_linked
+['Jerry Brown']	not_linked
+['Jerry Garcia']	Jerry_Garcia
+['Jerry Rice']	not_linked
+['Jerry Sandusky']	Sandusky
+['Jerry Seinfeld']	Jerry_Seinfeld
+['Jerry Spinelli']	not_linked
+['Jerry the Minion']	not_linked
+['Jerusalem']	Jerusalem
+['Jerzy Buzek']	not_linked
+['Jesse James']	not_linked
+['Jesse Owens']	not_linked
+['Jesse']	not_linked
+['Jessica Ennis-Hill']	not_linked
+['Jessica McClure']	not_linked
+['Jessica Olsson']	not_linked
+['Jessica Simpson']	Jessica_Simpson
+['Jesus Christ']	Jesus_Christ
+['Jewel']	Jewel
+['Jewish people']	Jewish_people
+['Jill Clayburgh']	Jill_Clayburgh
+['Jill Wagner']	not_linked
+['Jim Bob Duggar']	not_linked
+['Jim Caldwell']	not_linked
+['Jim Halpert']	not_linked
+['Jim Harbaugh']	not_linked
+['Jim Lovell']	not_linked
+['Jim Toth']	not_linked
+['Jim Valvano']	not_linked
+['Jimi Hendrix']	Jimi_Hendrix
+['Jimmy Fallon']	Jimmy_Fallon
+['Jimmy Hoffa']	Hoffa
+['Jimmy Savile']	not_linked
+['Jimmy Smith']	not_linked
+['Jingjinji']	not_linked
+['Jo-Wilfried Tsonga']	not_linked
+['JoJo']	not_linked
+['Joakim Noah']	not_linked
+['Joan Crawford']	Joan_Crawford
+['Joan Mir']	not_linked
+['Jodi Rell']	not_linked
+['Joe Biden']	Joe_Biden
+['Joe Bryant']	not_linked
+['Joe Flacco']	not_linked
+['Joe Hart']	not_linked
+['Joe Montana']	not_linked
+['Joe Namath']	not_linked
+['Joe Satriani']	Joe_Satriani
+['Joe Walsh']	Joe_Walsh
+['Joel Quenneville']	not_linked
+['Joey King']	not_linked
+['Joey Lawrence']	not_linked
+['Johann Sebastian Bach']	Johann_Sebastian_Bach
+['Johannes Kepler']	Galileo_Galilei
+['Johannesburg']	Johannesburg
+['John A. Macdonald']	not_linked
+['John Adams']	John_Adams
+['John Beck']	not_linked
+['John Bell']	Bell
+['John Boehner']	not_linked
+['John Bonham']	not_linked
+['John Cabot']	not_linked
+['John Carter']	John_Carter
+['John Cena']	not_linked
+['John Connor']	not_linked
+['John Cornyn']	not_linked
+['John Dalton']	not_linked
+['John Donne']	not_linked
+['John Edwards']	not_linked
+['John F. Kennedy International Airport']	John_F._Kennedy_International_Airport
+['John F. Kennedy']	John_F._Kennedy
+['John Forbes Nash, Jr.']	not_linked
+['John Fox']	not_linked
+['John Franklin']	Franklin
+['John Frusciante']	John_Frusciante
+['John Garcia']	not_linked
+['John Harbaugh']	not_linked
+['John Herschel']	not_linked
+['John Hinckley Jr.']	not_linked
+['John Howard']	not_linked
+['John Irving']	John_Irving
+['John Jay']	not_linked
+['John Kerry presidential campaign, 2004']	John_Kerry
+['John Kerry']	John_Kerry
+['John Key']	not_linked
+['John Kitzhaber']	not_linked
+['John Krasinski']	John_Krasinski
+['John Legend']	John_Legend
+['John Lennon']	John_Lennon
+['John Madden']	John_Madden
+['John Mayer']	John_Mayer
+['John Muir']	not_linked
+['John Noble']	John_Noble
+['John Paul Jones']	John_Paul_Jones
+['John Pemberton']	not_linked
+['John Quincy Adams']	John_Quincy_Adams
+['John Roberts']	Bob_Roberts
+['John Ruskin']	not_linked
+['John Steinbeck']	John_Steinbeck
+['John Stockton']	not_linked
+['John Terry']	not_linked
+['John Tyler']	not_linked
+['John Walsh']	J._T._Walsh
+['John Winchester']	not_linked
+['John of Patmos']	not_linked
+['John the Evangelist']	John_5
+['Johnny Bench']	not_linked
+['Johnny Cash']	Johnny_Cash
+['Johnny Crawford']	not_linked
+['Johnny Depp']	Johnny_Depp
+['Jon Favreau filmography']	Jon_Favreau
+['Jon Gosselin']	not_linked
+['Jonas Brothers']	Jonas_Brothers
+['Jonathan Swift']	Jonathan_Swift
+['Jonesboro']	not_linked
+['Jordan Palmer']	not_linked
+['Jordan River']	not_linked
+['Jordan']	Jordan
+['Jordyn Wieber']	Justin_Bieber
+['Josef Mengele']	not_linked
+['Joseph John Thomson']	not_linked
+['Joseph McElderry']	not_linked
+['Joseph P. Kennedy, Jr.']	John_F._Kennedy
+['Joseph P. Kennedy, Sr.']	Robert_F._Kennedy
+['Joseph Prince']	not_linked
+['Joseph Pulitzer']	not_linked
+['Joseph Simmons']	not_linked
+['Joseph Stalin']	Joseph_Stalin
+['Joseph in Islam']	not_linked
+['Josh Charles']	Josh_Charles
+['Josh Groban']	Josh_Groban
+['Josh Hamilton']	not_linked
+['Josh Hutchersonm']	Josh_Hutcherson
+['Joshua Morrow']	not_linked
+['Journalist']	Journalist-GB
+['Journey']	Journey
+['Jovan Belcher']	not_linked
+['Juan Carlos Varela']	not_linked
+['Juan Manuel Santos']	Giovani_dos_Santos
+['Juan Ponce de León']	Miguel_de_Cervantes
+['Judaism']	Judaism-GB
+['Judea']	not_linked
+['Judi Dench']	Judi_Dench
+['Judy Collins']	Joan_Collins
+['Judy Garland']	Judy_Garland
+['Juice']	not_linked
+['Jules Verne']	Jules_Verne
+['Julia Gillard']	not_linked
+['Julia Roberts']	Julia_Roberts
+['Julian Clary']	not_linked
+['Julian Fellowes']	Julian_Fellowes
+['Julian Lennon']	John_Lennon
+['Julie Andrews']	Julie_Andrews
+['Julius Caesar']	Julius_Caesar
+['Jumanji']	not_linked
+['Juneau']	Juneau
+['Juni Cortez']	not_linked
+['Justin Bieber']	Justin_Bieber
+['Juventus F.C.']	Juventus_F.C.
+['Jörn Weisbrodt']	not_linked
+['KFC']	not_linked
+['KITT']	not_linked
+['KV62']	not_linked
+['Kahuku High & Intermediate School']	Punahou_School
+['Kailua']	not_linked
+['Kakadu National Park']	not_linked
+['Kaká']	not_linked
+['Kaley Cuoco']	Kaley_Cuoco
+['Kalmia latifolia']	not_linked
+['Kansas City Chiefs']	Kansas_City_Chiefs
+['Kansas City Royals']	Kansas_City_Royals
+['Kansas City']	Kansas_City
+['Kansas']	Kansas
+['Kapilavastu']	not_linked
+['Kaplan University']	not_linked
+['Kareem Abdul-Jabbar']	Kareem_Abdul-Jabbar
+['Karl Benz']	not_linked
+['Karl Marx']	Karl_Marx
+['Karlsruhe Institute of Technology']	Technical_University_of_Munich
+['Karnak']	not_linked
+['Kat Dennings']	Diane_Keaton
+['Kate Bosworth']	not_linked
+['Kate Chopin']	not_linked
+['Kate Gosselin']	Kate_Flannery
+['Kate Spade']	not_linked
+['Kate Winslet']	Kate_Winslet
+['Kateri Tekakwitha']	not_linked
+['Katherine Heigl']	Katherine_Heigl
+['Katherine Jackson']	not_linked
+['Katherine Jenkins']	not_linked
+['Katy Perry']	Katy_Perry
+['Kauai']	not_linked
+['Kaya Scodelario']	not_linked
+['Keisuke Honda']	not_linked
+['Kellan Lutz']	not_linked
+['Kellie Martin']	Kellie_Martin
+['Kelly Clarkson']	Kelly_Clarkson
+['Kelly Slater']	not_linked
+['Ken Jenkins']	not_linked
+['Ken Whisenhunt']	not_linked
+['Kenickie Murdoch']	not_linked
+['Kennedy family']	not_linked
+['Kenneth Parcell']	not_linked
+['Kenny Everett']	not_linked
+['Keno Waitress']	not_linked
+['Kentucky']	Kentucky
+['Kenwood Academy']	not_linked
+['Kenya Moore']	not_linked
+['Kenya']	Kenya
+['Kenyan shilling']	not_linked
+['Kerry Collins']	Michael_Collins
+['KevJumba']	not_linked
+['Kevin Costner']	Kevin_Costner
+['Kevin Durant']	not_linked
+['Kevin Garnett']	Kevin_Garnett
+['Kevin Hart']	not_linked
+['Kevin James']	Kevin_James
+['Kevin Jonas']	Kevin_Jonas
+['Kevin Love']	not_linked
+['Keyshia Cole']	Natalie_Cole
+['Khadīja bint Khuwaylid']	not_linked
+['Khartoum']	not_linked
+['Khloé Kardashian']	Kim_Kardashian
+['Kia Motors']	Jeonbuk_Hyundai_Motors
+['Kiev']	Kiev
+['Kilkea']	not_linked
+['Kim Dae-jung']	Kim_Yoon-jin
+['Kim Delaney']	not_linked
+['Kim Jong-il']	not_linked
+['Kim Jong-un']	not_linked
+['Kim Kardashian']	Kim_Kardashian
+['Kim Richards']	not_linked
+['Kim']	not_linked
+['Kimberly Williams-Paisley']	Corinne_Bailey_Rae
+['King Charles Spaniel']	not_linked
+['King Edward VI School, Stratford-upon-Avon']	Stratford-upon-Avon
+['Kingdom of Israel']	not_linked
+['Kingdom of Portugal']	Kingdom_of_Portugal
+['Kingdom of the Netherlands']	Kingdom_of_the_Netherlands
+['Kingston']	Kingston
+['Kirk Cameron']	not_linked
+['Kirk Hammett']	not_linked
+['Kirkcaldy']	Kirkcaldy
+['Kirsten Dunst']	Kirsten_Dunst
+['Kirsten Storms']	not_linked
+['Knight Rider']	not_linked
+['Knossos']	not_linked
+['Knox Overstreet']	not_linked
+['Kobe Bryant']	Kobe_Bryant
+['Kourtney Kardashian']	Kim_Kardashian
+['Kovu']	not_linked
+['Krabi']	not_linked
+['Kris Humphries']	not_linked
+['Kristen Bell']	Kristen_Bell
+['Kristen Stewart']	Kristen_Stewart
+['Kristin Richard']	not_linked
+['Kroy Biermann']	not_linked
+['Ku Klux Klan']	not_linked
+['Kurds']	not_linked
+['Kurt Busch']	not_linked
+['Kurt Cobain']	Kurt_Cobain
+['Kurt Vonnegut']	Kurt_Vonnegut
+['Kurt Warner']	not_linked
+['Kyla Ross']	not_linked
+['Köping']	not_linked
+['L. Frank Baum']	L._Frank_Baum
+['LA Galaxy']	LA_Galaxy
+['LaDainian Tomlinson']	not_linked
+['Laborer']	not_linked
+['Lacey Chabert']	Lacey_Chabert
+['Laci Peterson']	not_linked
+['Lady Bird Johnson']	not_linked
+['Lagos']	Lagos
+['Laguna Beach: The Real Orange County']	Laguna_Beach
+['Lajos Kossuth']	not_linked
+['Lake Havasu City']	not_linked
+['Lake Merritt']	not_linked
+['Lake Tear of the Clouds']	not_linked
+['Lake Victoria']	not_linked
+['Lake Waynoka, Ohio']	Lake_Michigan
+['Lakeside School']	not_linked
+['Lakewood Church Central Campus']	not_linked
+['Lakota people']	Sioux
+['Lamar Odom']	Lamar_Odom
+['Lamar Sally']	not_linked
+['Lancaster']	Lancaster
+['Lance Armstrong']	not_linked
+['Lando Calrissian']	not_linked
+['Langston Hughes']	not_linked
+['Lanzarote']	not_linked
+['Laos']	Laos
+['Larry David']	Larry_David
+['Larry Ellison']	not_linked
+['Larry Hagman']	Larry_Hagman
+['Las Vegas']	Las_Vegas
+['Lassen Peak']	not_linked
+['Latin America']	Latin_America
+['Latin Language']	Latin_Language
+['Laughlin']	not_linked
+['Laura Bush']	not_linked
+['Laura Chinchilla']	not_linked
+['Laura Ingalls Wilder']	not_linked
+['Lauren Conrad']	Lauren_Katherine_Conrad
+['Lawrence E. Roberts']	Eric_Roberts
+['Lawton']	Lawton
+['Lawyer']	Lawyer
+['Le Mans']	Le_Mans_FC
+['LeAnn Rimes']	LeAnn_Rimes
+['LeBron James']	LeBron_James
+['Lea Michele']	Lea_Michele
+['Lebanon']	Lebanon
+['Lechitic languages']	not_linked
+['Lee Corso']	not_linked
+['Lee County']	Lee_County
+['Lee Harvey Oswald']	not_linked
+['Lee Mead']	not_linked
+['Leesburg']	not_linked
+['Leia Organa']	not_linked
+['Leif Eriksson']	not_linked
+['Leland Blaine Chapman']	not_linked
+['Lenny Kravitz']	Lenny_Kravitz
+['Leo Howard']	not_linked
+['Leonardo da Vinci']	Leonardo_da_Vinci
+['Leonel Fernández']	not_linked
+['Leonidas I']	not_linked
+['Leonor Ponce de León']	Miguel_de_Cervantes
+['Les Invalides']	not_linked
+['Leslie David Baker']	Leslie_David_Baker
+['Lexington']	Lexington
+['Liam Hemsworth']	not_linked
+['Liam Neeson']	Liam_Neeson
+['Libya']	Libya
+['Libyan Civil War']	Libyan_Civil_War
+['Life of Franz Liszt']	Franz_Liszt
+['Lil Wayne']	Lil_Wayne
+['Lily Collins']	Lily_Allen
+['Lincoln Steffens']	not_linked
+['Linda Cardellini']	Linda_Cardellini
+['Lindsay Lohan']	Lindsay_Lohan
+['Lindsey Buckingham']	not_linked
+['Lionel Messi']	Lionel_Messi
+['Lisa Bonet']	not_linked
+['Little Rock']	Little_Rock
+['Littleton']	not_linked
+['Liv Tyler']	Liv_Tyler
+['Liverpool F.C.']	Liverpool_F.C.
+['Liverpool']	Liverpool
+['Liz Lemon']	not_linked
+['Liz McClarnon']	not_linked
+['Lleyton Hewitt']	not_linked
+['Logan Browning']	not_linked
+['Logan Lerman']	not_linked
+['Lois Griffin']	not_linked
+['Lois Lane']	not_linked
+['Lola Bunny']	not_linked
+['Lola Glaudini']	not_linked
+['London Heathrow Airport']	London_Heathrow_Airport
+['London']	London
+['Lord Voldemort']	not_linked
+['Lords of Dogtown']	Lords_of_Dogtown
+['Loretta Woods']	not_linked
+['Lorne']	not_linked
+['Los Angeles Angels of Anaheim']	Los_Angeles_Angels_of_Anaheim
+['Los Angeles Chargers']	San_Diego_Chargers
+['Los Angeles Clippers']	Los_Angeles_Clippers
+['Los Angeles County']	Los_Angeles_County
+['Los Angeles Dodgers']	Los_Angeles_Dodgers
+['Los Angeles Kings']	Los_Angeles_Kings
+['Los Angeles Lakers']	Los_Angeles_Lakers
+['Los Angeles']	Los_Angeles
+['Lost']	Lost
+['Louis Armstrong']	Louis_Armstrong
+['Louis Riel']	not_linked
+['Louis Sachar']	not_linked
+['Louis XIV of France']	Louis_XIV_of_France
+['Louis XVI of France']	Louis_XIV_of_France
+['Louisiana']	Louisiana
+['Louisville']	Louisville
+['Lower Merion High School']	Lowell_High_School
+['Lucille Ball']	Lucille_Ball
+['Lucy Hale']	Lucy_Lawless
+['Lucy Lawless']	Lucy_Lawless
+['Lucy Punch']	not_linked
+['Ludwig van Beethoven']	Ludwig_van_Beethoven
+['Luis Suárez']	not_linked
+['Luitgard']	not_linked
+['Luke Air Force Base']	not_linked
+['Luke Bryan']	Bob_Bryan
+['Luke Perry']	not_linked
+['Luke Skywalker']	not_linked
+['Lung cancer']	Lung_cancer
+['Lymphoma']	Lymphoma
+['Lyndon B. Johnson']	Lyndon_B._Johnson
+['Lynwood']	Lynwood
+['M&T Bank Stadium']	not_linked
+['M. C. Escher']	not_linked
+['MTS Iceplex']	not_linked
+['MTV Video Music Award']	MTV_Video_Music_Award_for_Video_of_the_Year
+['MTV']	MTV
+['Maasai Language']	Swahili_Language
+['Maasai people']	not_linked
+['Madagascar']	Madagascar
+['Maddie Briann Aldridge']	not_linked
+['Madeira']	not_linked
+['Madison County']	Madison_County
+['Madison Square Garden']	not_linked
+['Madonna']	Madonna
+['Madrid']	Madrid
+['Madrigal de las Altas Torres']	not_linked
+['Maggie Simpson']	not_linked
+['Magic Johnson']	Magic_Johnson
+['Magnifying glass']	not_linked
+['Maharashtra']	Maharashtra
+['Major League Baseball']	Baseball
+['Majorca']	not_linked
+['Makati']	Makati
+['Malaysia Time Zone']	not_linked
+['Malaysia']	Malaysia
+['Malaysian ringgit']	not_linked
+['Malcolm X']	Malcolm_X
+['Malcom Floyd']	not_linked
+['Maldives']	Maldives
+['Maldivian rufiyaa']	not_linked
+['Mali']	Ali
+['Malta']	Malta
+['Man of Steel']	Man_of_Steel
+['Manatee County']	Duval_County
+['Manchester United F.C.']	Manchester_United_F.C.
+['Manchester']	Manchester
+['Manhattan']	Manhattan
+['Manny Pacquiao']	not_linked
+['Manny Ramirez']	not_linked
+['Maple Leaf Sports & Entertainment']	not_linked
+['Marc Blucas']	not_linked
+['Marc Chagall']	not_linked
+['Marco Polo']	not_linked
+['Marco Rubio']	not_linked
+['Margaret Hoover']	Herbert_Hoover
+['Margarete Boden']	not_linked
+['Margot Kidder']	Margot_Kidder
+['Margrethe II of Denmark']	not_linked
+['Maria Sharapova']	not_linked
+['Maria Theresa']	not_linked
+['Maricopa County']	Maricopa_County
+['Marie Curie']	not_linked
+['Marilyn Monroe']	Marilyn_Monroe
+['Marin County']	Marin_County
+['Mario Lopez']	Mario_López
+['Marion Barber III']	Gary_Barber
+['Mark David Chapman']	Michael_Chapman
+['Mark Hamill']	Mark_Hamill
+['Mark Harmon']	Mark_Harmon
+['Mark McGwire']	not_linked
+['Mark Sanchez']	not_linked
+['Mark Twain']	Mark_Twain
+['Mark Zuckerberg']	not_linked
+['Markieff Morris']	not_linked
+['Marlee Matlin']	Marlee_Matlin
+['Marlins Park']	not_linked
+['Marlon Brando']	Marlon_Brando
+['Marshall Bruce Mathers III']	not_linked
+['Marta']	not_linked
+['Martin Cooper']	not_linked
+['Martin Luther King, Jr. National Historic Site']	not_linked
+['Martin Luther King, Jr.']	Martin_Luther_King,_Jr.
+['Martin Luther']	Martin_Luther_King,_Jr.
+['Martin Sheen']	Martin_Sheen
+['Marton']	not_linked
+['Marty McFly']	not_linked
+['Marvin Eriksen Sr.']	not_linked
+['Mary Bell']	not_linked
+['Mary Harris Jones']	Shirley_Jones
+['Mary I of England']	Elizabeth_I
+['Mary Kay Ash']	not_linked
+['Mary Kay']	Mary_Kay_Place
+['Mary Mary']	Mary
+['Mary McLeod Bethune']	Mary_McDonnell
+['Mary Poppins']	Mary_Poppins
+['Mary Shelley']	Mary_Shelley
+['Mary Todd Lincoln']	Abraham_Lincoln
+['Mary Wollstonecraft']	Mary_Shelley
+['Mary']	Mary
+['Mary, Queen of Scots']	not_linked
+['Maryland']	Maryland
+['Marymount High School']	Loyola_Marymount_University
+['Maryville']	not_linked
+['Mason Capwell']	not_linked
+['Massachusetts']	Massachusetts
+['Mathew Brady']	not_linked
+['Matt Barnes']	not_linked
+['Matt Bomer']	not_linked
+['Matt Bryant']	not_linked
+['Matt Dallas']	not_linked
+['Matt Damon']	Matt_Damon
+['Matt Lanter']	not_linked
+['Matt Lauer']	Matt_Lauer
+['Matt Mead']	not_linked
+['Matt Schaub']	not_linked
+['Matt Stone']	Matt_Stone
+['Matthew the Apostle']	not_linked
+['Matthias Jakob Schleiden']	not_linked
+['Maui']	Maui
+['Maule Region']	not_linked
+['Mauritian rupee']	Indian_rupee
+['Mauritius']	Mauritius
+['Max Shreck']	not_linked
+['Maya Angelou']	Maya_Angelou
+['Maya Moore']	Maya_Angelou
+['Mayor of London']	not_linked
+['Mazie Hirono']	not_linked
+['Mecca']	Mecca
+['Mecklenburg County']	Mecklenburg_County
+['Mediterranean Sea']	Mediterranean_Sea
+['Meg Griffin']	not_linked
+['Mekong']	not_linked
+['Mel Carnahan']	not_linked
+['Melba Pattillo Beals']	not_linked
+['Melbourne']	Melbourne
+['Mellody Hobson']	not_linked
+['Memphis']	Memphis
+['Meningioma']	not_linked
+['Menlo Park']	Menlo_Park
+['Mercedes-Benz Superdome']	not_linked
+['Meredith Grey']	not_linked
+['Meriadoc Brandybuck']	not_linked
+['Merrell']	not_linked
+['Mesopotamia']	not_linked
+['Metallica']	Metallica
+['Metaphysical poets']	not_linked
+['Methodism']	Methodism
+['Mexican peso']	not_linked
+['Mexico City']	Mexico_City
+['Mexico']	Mexico
+['Miami Dolphins']	Miami_Dolphins
+['Miami Heat']	Miami_Heat
+['Miami Marlins']	Miami_Marlins
+['Miami University']	Miami_University
+['Miami']	Miami
+['Michael Bloomberg']	not_linked
+['Michael Bublé']	not_linked
+['Michael Clarke Duncan']	Michael_Clarke_Duncan
+['Michael Connor Humphreys']	not_linked
+['Michael Crabtree']	not_linked
+['Michael J. Fox']	Michael_J._Fox
+['Michael Jackson']	Michael_Jackson
+['Michael Jordan']	Michael_Jordan
+['Michael Oher']	not_linked
+['Michael Rosenbaum']	Michael_Rosenbaum
+['Michael S. Dell']	not_linked
+['Michael Schumacher']	Joel_Schumacher
+['Michael Vick']	not_linked
+['Michael Weatherly']	not_linked
+['Michael Williams']	Michael_K._Williams
+['Michelangelo']	Michelangelo
+['Michelle Obama']	Michelle_Forbes
+['Michelle Pfeiffer']	Michelle_Pfeiffer
+['Michigan State Spartans football']	Michigan_State_Spartans_football
+['Michigan State University']	Michigan_State_University
+['Michigan Wolverines football']	Michigan_Wolverines_football
+['Michigan']	Michigan
+['Mickey Horton']	not_linked
+['Mickey Mouse']	Mickey_Mouse
+['Microsoft Corporation']	Microsoft_Corporation
+['Microsoft Windows']	Microsoft_Windows
+['Middle East']	Middle_East
+['Midland']	Midland
+['Midlothian']	not_linked
+['Midwestern United States']	not_linked
+['Mighty Morphin Power Rangers']	Mighty_Morphin_Power_Rangers
+['Mike Fisher']	not_linked
+['Mike Huckabee']	not_linked
+['Mike Leach']	not_linked
+['Mike Matheny']	not_linked
+['Mike Piazza']	Vincent_Piazza
+['Mike Tomlin']	not_linked
+['Mike Wright']	not_linked
+['Mikhail Danilov']	not_linked
+['Mila Kunis']	Mila_Kunis
+['Miles Davis']	Miles_Davis
+['Miley Cyrus']	Miley_Cyrus
+['Military Commander']	not_linked
+['Milk']	Milk
+['Miller County']	Allen_County
+['Miller Park']	not_linked
+['Milwaukee Brewers']	Milwaukee_Brewers
+['Milwaukee']	Milwaukee
+['Minato']	Minato
+['Minneapolis']	Minneapolis
+['Minnesota Timberwolves']	Minnesota_Timberwolves
+['Minnesota Vikings']	Minnesota_Vikings
+['Minnesota']	Minnesota
+['Miranda Otto']	Miranda_Otto
+['Mirka Federer']	not_linked
+['Miss America']	Miss_Universe
+['Miss USA 1993']	Miss_Universe
+['Miss USA']	Miss_Universe
+['Mission Hills']	not_linked
+['Mission San Buenaventura']	not_linked
+['Mission San Gabriel Arcángel']	not_linked
+['Mission San Rafael Arcángel']	San_Rafael
+['Mississippi River']	Mississippi_River
+['Mississippi Valley State University']	Mississippi_State_University
+['Missouri River']	Missouri_River
+['Missouri']	Missouri
+['Mitch Daniels']	not_linked
+['Mitch Hedberg']	not_linked
+['Mitt Romney presidential campaign, 2008']	not_linked
+['Mitt Romney']	not_linked
+['Miwok']	not_linked
+['Mobile']	Mobile
+['Modern Standard Arabic']	Arabic_Language
+['Moisés Arias']	not_linked
+['Molly Ringwald']	not_linked
+['Mona Lisa']	Mona_Lisa
+['Moncef Marzouki']	not_linked
+['Mongolia']	Mongolia
+['Monica Braithwaite']	not_linked
+['Monica']	not_linked
+['Monroe County High School']	DeWitt_Clinton_High_School
+['Monsanto']	not_linked
+['Monta Ellis']	not_linked
+['Montana']	Montana
+['Montclair College Preparatory School']	Montclair_State_University
+['Montel Williams']	not_linked
+['Montesquieu']	not_linked
+['Montgomery County']	Montgomery_County
+['Montpelier']	Montpelier
+['Montreal']	Montreal
+['Moorestown']	not_linked
+['Moorpark']	not_linked
+['Morgan Freeman']	Morgan_Freeman
+['Morgantown']	Morgantown
+['Moroccan dirham']	not_linked
+['Morocco']	Morocco
+['Morris County']	Morris_County
+['Morrissey']	Morrissey
+['Morristown']	Morristown
+['Morse code']	not_linked
+['Mossad Agent Ziva David']	not_linked
+['Mother Teresa']	not_linked
+['Mougins']	not_linked
+['Mount Everest']	not_linked
+['Mount Fuji']	not_linked
+['Mount St. Helens']	St_Helens
+['Mount Vernon']	Mount_Vernon
+['Mount Whitney']	not_linked
+['Mountain Time Zone']	Mountain_Time_Zone-US
+['Mountain View']	Mountain_View
+['Mouse']	not_linked
+['Mozambican metical']	Mozambique
+['Mozambique']	Mozambique
+['Muhammad Zia-ul-Haq']	Omar_Sharif
+['Muhammad in Islam']	Muhammad
+['Multiple sclerosis']	Multiple_sclerosis
+['Murder']	Murder
+['Murray River']	not_linked
+['Murray']	not_linked
+['Muswellbrook']	not_linked
+['Mvezo']	not_linked
+['Mwinilunga']	not_linked
+['Myanmar']	Myanmar
+['Myrna Colley-Lee']	Myrna_Loy
+['Mysophobia']	not_linked
+['NASCAR Hall of Fame']	not_linked
+['NASDAQ']	not_linked
+['NBA Most Improved Player Award']	not_linked
+['NCIS - Season 1']	not_linked
+['NCIS - Season 3']	not_linked
+['NCIS']	not_linked
+['NPR']	NPR
+['Nadezhda Krupskaya']	not_linked
+['Nadi, Fiji']	Fiji
+['Nadia Boulanger']	not_linked
+['Nagasaki']	Nagasaki
+['Nancy Cartwright']	Nancy_Cartwright
+['Nancy Juvonen']	not_linked
+['Nancy Pelosi']	Nancy_Pelosi
+['Nancy Shevell']	not_linked
+['Naples']	Naples
+['Napoleon Bonaparte']	Napoleon_Bonaparte
+['Nashville Predators']	Nashville_Predators
+['Nashville']	Nashville
+['Natalie Portman']	Natalie_Portman
+['Nate Robinson']	not_linked
+['Nathan Lane']	Nathan_Lane
+['Nathan Scott']	not_linked
+['Nathaniel Hawthorne']	Nathaniel_Hawthorne
+['National Anthem of Russia']	not_linked
+['National Collegiate Athletic Association']	not_linked
+['National FFA Organization']	not_linked
+['National Football League']	National_Football_League
+['National Rifle Association']	not_linked
+['Native Americans in the United States']	Native_Americans_in_the_United_States
+['Navajo people']	Indigenous_peoples_of_the_Americas
+['Nazi Germany']	Nazi_Germany
+['Near East']	not_linked
+['Nebraska']	Nebraska
+['Ned Kelly']	Ned_Kelly
+['Neil Abercrombie']	not_linked
+['Neil Armstrong']	not_linked
+['Neil Gaiman']	Neil_Gaiman
+['Neil Patrick Harris']	Neil_Patrick_Harris
+['Nelson Mandela']	Nelson_Mandela
+['Nelson Rockefeller']	not_linked
+['Nepal']	Nepal
+['Neptune']	The_Neptunes
+['Nero']	not_linked
+['Nestlé']	not_linked
+['Netherlands']	Netherlands
+['Neuss']	not_linked
+['Neutron']	not_linked
+['Nevada']	Nevada
+['Neverland Ranch']	not_linked
+['New Democratic Party']	Democratic_Party
+['New England Patriots']	New_England_Patriots
+['New England']	New_England
+['New Haven']	New_Haven
+['New Jersey']	New_Jersey
+['New Mexico Lobos Basketball']	Arizona_Wildcats_men's_basketball
+['New Mexico']	New_Mexico
+['New Orleans Pelicans']	New_Orleans_Pelicans
+['New Orleans Saints']	New_Orleans_Saints
+['New Orleans']	New_Orleans
+['New Rochelle']	New_Rochelle
+['New South Wales']	New_South_Wales
+['New York City blackout of 1977']	not_linked
+['New York City']	New_York_City
+['New York Giants']	New_York_Giants
+['New York Jets']	New_York_Jets
+['New York Knicks']	New_York_Knicks
+['New York Mets']	New_York_Mets
+['New York Rangers']	New_York_Rangers
+['New York University']	New_York_University
+['New York Yankees']	New_York_Yankees
+['New York']	New_York
+['New Zealand cuisine']	not_linked
+['New Zealand dollar']	Australian_dollar
+['New Zealand']	New_Zealand
+['Newark']	Newark
+['Newcastle upon Tyne']	Newcastle_upon_Tyne
+['Newt Gingrich']	not_linked
+['Newton Heath L&YR F.C.']	not_linked
+['Ngurah Rai International Airport']	not_linked
+['Niall Ferguson']	not_linked
+['Niccolò Machiavelli']	not_linked
+['Nicholas Hoult']	not_linked
+['Nicholas Sparks']	not_linked
+['Nick Cannon']	Nick_Cannon
+['Nick Carter']	not_linked
+['Nick Clegg']	not_linked
+['Nick Grimshaw']	not_linked
+['Nick Lachey']	Nick_Lachey
+['Nicki Minaj']	Nicki_Minaj
+['Nicolas Cage']	Nicolas_Cage
+['Nicolas Sarkozy']	not_linked
+['Nicolaus Copernicus']	Galileo_Galilei
+['Nicole Kidman']	Nicole_Kidman
+['Nicomedia']	not_linked
+['Niels Henrik David Bohr']	Niels_Henrik_David_Bohr
+['Niger River']	Niger
+['Nigeria']	Nigeria
+['Nike, Inc.']	Nike
+['Nikola Tesla']	Nikola_Tesla
+['Nikolai Gogol']	Nikolai_Gogol
+['Niles Crane']	not_linked
+['Nina Dobrev']	not_linked
+['Nina Simone']	Nina_Simone
+['Nine Mile']	not_linked
+['Nineveh']	not_linked
+['Nissan Motor Co., Ltd.']	not_linked
+['Noah Bennet']	not_linked
+['Nobel Peace Prize']	Nobel_Peace_Prize
+['Nogales']	not_linked
+['Nolan Ryan']	not_linked
+['Nordic countries']	Scandinavia
+['Norm Peterson']	not_linked
+['Norman Bird']	not_linked
+['Normandy']	Normandy
+['Norodom Sihamoni']	not_linked
+['Norristown']	Norristown
+['North Africa']	North_Africa
+['North America']	North_America-US
+['North American Free Trade Agreement']	not_linked
+['North Atlantic Treaty Organization (NATO)']	North_Atlantic_Treaty_Organization_(NATO)
+['North Dakota State University']	North_Dakota_State_University
+['North Dakota']	North_Dakota
+['North Korea']	North_Korea
+['North Port']	not_linked
+['North West England']	North_Yorkshire
+['Northeastern United States']	not_linked
+['Northern Ireland']	Northern_Ireland
+['Northern Territory']	Northern_Territory
+['Northern cardinal']	Cardinal
+['Norway']	Norway
+['Novak Djokovic']	Novak_Djokovic
+['Novato']	not_linked
+['O Canada']	not_linked
+['Oahu']	Oahu
+['Oak Ridge Cemetery']	Arlington_National_Cemetery
+['Oakland County']	Oakland_County
+['Oakland Raiders']	Oakland_Raiders
+['Oakland']	Oakland
+['Obi-Wan Kenobi']	not_linked
+['Oceania']	Oceania
+['Ohio River']	Ohio_River
+['Ohio University']	Ohio_University
+['Ohio']	Ohio
+['Okemos']	not_linked
+['Oklahoma City Thunder']	Oklahoma_City_Thunder
+['Oklahoma City']	Oklahoma_City
+['Oklahoma']	Oklahoma
+['Old Bilbo']	not_linked
+['Old English']	not_linked
+['Oliver Twist']	Oliver_Twist
+['Ollanta Humala']	not_linked
+['Olympia']	Olympia
+['Olympic Games']	2012_Summer_Olympics
+['Olympic National Park']	not_linked
+['Olympique de Marseille']	Olympique_de_Marseille
+['Omar Epps']	Mike_Epps
+['Omega SA']	not_linked
+['One Life to Live']	One_Life_to_Live
+['One for the Money']	not_linked
+['Oneida County']	Oneida_County
+['Ontario International Airport']	Airport
+['Ontario']	Ontario
+['Orange County']	Orange_County
+['Oregon State University']	Oregon_State_University
+['Oregon']	Oregon
+['Organization founder']	not_linked
+['Orlando Magic']	Orlando_Magic
+['Orlando']	Orlando
+['Osama bin Laden']	not_linked
+['Oscar Pistorius']	not_linked
+['Ottawa']	Ottawa
+['Otto Frank']	not_linked
+['Ottoman Empire']	Ottoman_Empire
+['Ovarian cancer']	Ovarian_cancer
+['Overbrook High School']	Beverly_Hills_High_School
+['Owen Schmitt']	not_linked
+['Owensboro']	Owensboro
+['PPL Park']	not_linked
+['Pablo Picasso']	Pablo_Picasso-GB
+['Pacific Ocean']	Pacific_Ocean
+['Pacific Time Zone']	Pacific_Time_Zone
+['Paddington']	Paddington
+['Padmé Amidala']	not_linked
+['Paige Matthews']	not_linked
+['Painting']	Painting
+['Pakistan']	Pakistan
+['Palace']	not_linked
+['Palestrina']	not_linked
+['Palm Springs']	Palm_Springs
+['Palo Alto']	Palo_Alto
+['Pamela Courson']	not_linked
+['Pamiers']	not_linked
+['Panama Canal']	not_linked
+['Panama City Beach']	Panama_City
+['Panama']	Panama
+['Pancreatic cancer']	Pancreatic_cancer
+['Paraguay']	Paraguay
+['Paraná River']	Rio_Grande_do_Sul
+['Paris Saint-Germain F.C.']	Paris_Saint-Germain_F.C.
+['Paris']	Paris
+['Parisii']	not_linked
+['Parliament of Nepal']	Nepal
+['Parliamentary republic']	Parliamentary_system
+['Parliamentary system']	Parliamentary_system
+['Pat Nixon']	Nixon
+['Patrick Henry']	not_linked
+['Patrick Swayze']	Patrick_Swayze
+['Paul Blart: Mall Cop']	not_linked
+['Paul Fusco']	not_linked
+['Paul Keating']	not_linked
+['Paul McCartney']	Paul_McCartney
+['Paul Revere']	not_linked
+['Paul Rudd']	Paul_Rudd
+['Paul Ryan']	not_linked
+['Paul Teutul, Jr.']	not_linked
+['Paul Wesley']	not_linked
+['Paul the Apostle']	Paul
+['Paula Deen']	not_linked
+['Pauley Perrette']	not_linked
+['Paulina Gretzky']	not_linked
+['Pavlova']	not_linked
+['Peeta Mellark']	not_linked
+['Penelope Scotland Disick']	not_linked
+['Pennsylvania State University']	Pennsylvania_State_University
+['Pennsylvania']	Pennsylvania
+['Penny']	not_linked
+['Peoria']	Peoria
+['Pepsi Center']	not_linked
+['Percy Jackson']	Percy_Jackson_&_the_Olympians:_The_Lightning_Thief
+['Perpignan']	not_linked
+['Persian Language']	Persian_Language
+['Perth']	Perth
+['Peru']	Peru
+['Peruvian nuevo sol']	not_linked
+['Pete Rose']	not_linked
+['Peter Crouch']	not_linked
+['Peter Frampton']	Peter_Frampton
+['Peter Griffin']	not_linked
+['Peter King']	not_linked
+['Petersburg High School']	Stuyvesant_High_School
+['Peyton Manning']	not_linked
+['Phil Harris']	not_linked
+['Phil Mickelson']	not_linked
+['Philadelphia 76ers']	Philadelphia_76ers
+['Philadelphia Church of God']	Churches_of_Christ
+['Philadelphia Eagles']	Philadelphia_Eagles
+['Philadelphia Flyers']	Philadelphia_Flyers
+['Philadelphia Phillies']	Philadelphia_Phillies
+['Philadelphia Union']	Philadelphia_Union
+['Philadelphia']	Philadelphia
+['Philip II of Spain']	not_linked
+['Philip the Apostle']	not_linked
+['Philippine peso']	not_linked
+['Philippines']	Philippines
+['Phillips Exeter Academy']	Phillips_Exeter_Academy
+['Phnom Penh']	Phnom_Penh
+['Phoebe Halliwell']	not_linked
+['Phoenicia']	not_linked
+['Phoenician alphabet']	not_linked
+['Phoenix Sky Harbor International Airport']	not_linked
+['Phoenix Suns']	Phoenix_Suns
+['Phoenix']	Phoenix
+['Physician']	Physician
+['Physics']	Physics
+['Pinellas County']	Pinellas_County
+['Pink Floyd']	Pink_Floyd
+['Pinus palustris']	not_linked
+['Pittsburgh Steelers']	Pittsburgh_Steelers
+['Pittsburgh']	Pittsburgh
+['Pixar']	Pixar
+['Pixie Lott']	not_linked
+['Place de la Concorde']	not_linked
+['Plainfield']	Plainfield
+['Plano']	Plano
+['Platte County']	Genesee_County
+['Plaxico Burress']	not_linked
+['Pleistarchus']	not_linked
+['Plymouth']	Plymouth
+['Pneumonia']	Pneumonia
+['Point guard']	Point_guard
+['Poison']	not_linked
+['Poland Seminary High School']	University_of_Warsaw
+['Poland']	Poland
+['Polis Massa']	not_linked
+['Polish Language']	Polish_Language
+['Political Science']	Political_Science
+['Political corruption']	not_linked
+['Politician']	not_linked
+['Pope Benedict XVI']	Pope
+['Pope John Paul II']	Pope
+['Port Charlotte']	Charlottetown
+['Port Conway']	not_linked
+['Port Lavaca']	not_linked
+['Port St. John']	Saint_John
+['Port St. Lucie']	St._John's
+['Portchester']	not_linked
+['Portia Simpson-Miller']	not_linked
+['Portland Press Herald']	not_linked
+['Portrait']	Portrait
+['Portsmouth F.C.']	Portsmouth_F.C.
+['Portugal']	Portugal
+['Portuguese Empire']	Kingdom_of_Portugal
+['Portuguese Language']	Portuguese_Language
+['Portuguese-Galician Group']	Kingdom_of_Portugal
+['Post-Impressionism']	not_linked
+['Potomac River']	Columbia_River
+['Pound sterling']	UK_£
+['Premier League Golden Boot']	not_linked
+['President of Brazil']	not_linked
+['President of Israel']	Yasser_Arafat
+['President of Pakistan']	Omar_Sharif
+['President of the United States']	President_of_the_United_States
+['Preston, Lancashire']	City_of_Preston,_Lancashire
+['Pretty Little Liars']	Pretty_Little_Liars
+['Prime Minister of Canada']	Prime_Minister_of_Canada
+['Prime Minister of Jamaica']	Prime_Minister_of_Canada
+['Prime Minister of Pakistan']	Prime_Minister_of_Canada
+['Princeton University']	Princeton_University
+['Princeton']	Princeton
+['Printing press']	not_linked
+['Private Parts']	not_linked
+['Priyanka Gandhi']	Gandhi
+['Professor Albus Dumbledore']	not_linked
+['Prostate cancer']	Prostate_cancer
+['Protestant Organizations']	Protestantism
+['Proto-Canaanite alphabet']	not_linked
+['Province of Massachusetts Bay']	Massachusetts
+['Provo']	Provo
+['Psych']	Psychology
+['Psychedelic Session-compilation album']	Psychedelic_rock
+['Ptolemy']	not_linked
+['Puerto Galera, Oriental Mindoro']	not_linked
+['Puerto Rico']	Puerto_Rico
+['Punahou School']	Punahou_School
+['Puntland']	not_linked
+['Purdue University']	Purdue_University
+['Putnam County']	Putnam_County
+['Pyongyang']	Pyongyang
+['Pyotr Ilyich Tchaikovsky']	Pyotr_Ilyich_Tchaikovsky
+['Qatar']	Qatar
+['Qatari riyal']	not_linked
+['Qin Shi Huang']	not_linked
+['Quadrennial']	not_linked
+['Quantum mechanics']	not_linked
+['Quarterback']	Quarterback
+['Queen Elizabeth The Queen Mother']	Elizabeth_II
+['Queen Latifah']	Queen_Latifah
+['Queen Lillian']	not_linked
+['Queen Victoria']	Queen_Victoria
+['Queensland']	Queensland
+['Quentin Tarantino']	Quentin_Tarantino
+['Qui-Gon Jinn']	not_linked
+['Québec']	Québec
+['R. Kelly']	R._Kelly
+['Rabat']	Rabat
+['Race car driver']	not_linked
+['Rachael Biester']	not_linked
+['Rachel Gatina']	not_linked
+['Radio 1′s Hackney Weekend 2012']	not_linked
+['Rafael Correa']	not_linked
+['Rafael Furcal']	not_linked
+['Rafael Nadal']	Rafael_Nadal
+['Rainn Wilson']	Rainn_Wilson
+['Raj Kundra']	not_linked
+['Rajya Sabha']	Indian_National_Congress
+['Ralph Macchio']	not_linked
+['Ralph Waite']	not_linked
+['Ramsey County']	Ramsey_County
+['Randy Lerner']	Michael_Lerner
+['Randy Savage']	not_linked
+['Rangers Ballpark in Arlington']	not_linked
+['Raphael']	Raphael
+['Raquel Welch']	Raquel_Welch
+['Rasheed Wallace']	not_linked
+['Raven / Mystique']	not_linked
+['Ray Allen']	Ray_Allen
+['Ray Barone']	not_linked
+['Ray Romano']	Ray_Romano
+['Raúl Castro']	Fidel_Castro
+['Raúl Ibañez']	not_linked
+['Reading']	Reading
+['Real Madrid C.F.']	Real_Madrid_C.F.
+['Reba McEntire']	Reba_McEntire
+['Rebecca Adlington']	not_linked
+['Rebecca Olson Gupta']	Rebecca_Eaton
+['Redmond']	not_linked
+['Reed College']	Reed_College
+['Reese Witherspoon']	Reese_Witherspoon
+['Reggie Bush']	not_linked
+['Regina Hall']	not_linked
+['Renate Blauel']	not_linked
+['Renesmee Carlie Cullen']	not_linked
+['Renminbi']	not_linked
+['Reno']	Reno
+['Renée Zellweger']	not_linked
+['Republic of Genoa']	Genoa
+['Republic of Ireland']	Republic_of_Ireland
+['Republic of Venice']	Republic_of_Venice
+['Respiratory failure']	Respiratory_failure
+['Reuven Rivlin']	not_linked
+['Revelstoke']	not_linked
+['Rich Rodriguez']	not_linked
+['Richard Arkwright']	not_linked
+['Richard Burton']	Richard_Burton
+['Richard Hammond']	Richard_Hammond
+['Richard Harris']	Richard_Harris
+['Richard Marx']	Richard_Marx
+['Richard Nixon']	Richard_Nixon
+['Richard Pryor']	Richard_Pryor
+['Richard Wagner']	Richard_Wagner
+['Richard Wright']	Richard_Wright
+['Richard']	not_linked
+['Richmond']	Richmond
+['Rick Leland']	not_linked
+['Rick Perry']	not_linked
+['Rick Santorum']	not_linked
+['Rick Scott']	not_linked
+['Rickie Fowler']	not_linked
+['Right guard']	not_linked
+['Rihanna']	Rihanna
+['Riley Finn']	not_linked
+['Ringgold High School']	Beverly_Hills_High_School
+['Ringo Starr']	Ringo_Starr
+['Riptide the Pelican']	not_linked
+['Rita Ora']	not_linked
+['River Shannon']	not_linked
+['River Thames']	River_Thames
+['Riviera']	not_linked
+['Roald Dahl']	Roald_Dahl
+['Roatán']	not_linked
+['Rob Kardashian']	not_linked
+['Robbie Hummel']	not_linked
+['Robert Blake']	not_linked
+['Robert Boyle']	Robert_F._Boyle
+['Robert Burns']	George_Burns
+['Robert Downey Jr.']	Robert_Downey_Jr.
+['Robert E. Lee']	Robert_E._Lee
+['Robert F. Kennedy']	Robert_F._Kennedy
+['Robert Falcon Scott']	not_linked
+['Robert Frost']	not_linked
+['Robert Godley']	not_linked
+['Robert Griffin III']	not_linked
+['Robert H. Schuller']	Charles_M._Schulz
+['Robert Hooke']	not_linked
+['Robert Irvine']	not_linked
+['Robert Kardashian']	not_linked
+['Robert Knepper']	not_linked
+['Robert Koch']	not_linked
+['Robert Kraft']	not_linked
+['Robert Menzies']	William_Cameron_Menzies
+['Robert Pattinson']	Robert_Pattinson
+['Robeson County']	Jefferson_County
+['Robin Cook']	not_linked
+['Robin Gibb']	Robin_Gibb
+['Robin Hood: Prince of Thieves']	Robin_Hood:_Prince_of_Thieves
+['Robin Roberts']	Doris_Roberts
+['Robin Williams']	Robin_Williams
+['Rockford']	Rockford
+['Rod Stewart']	Rod_Stewart
+['Roger Bacon']	Francis_Bacon
+['Roger Federer']	Roger_Federer
+['Roger Howarth']	not_linked
+['Roger Moore']	Roger_Moore
+['Roger Sherman']	Richard_M._Sherman
+['Roll film']	not_linked
+['Roma Termini railway station']	not_linked
+['Roman Abramovich']	not_linked
+['Roman Catholic Church']	Roman_Catholic_Church
+['Roman Empire']	Roman_Empire
+['Roman emperor']	Holy_Roman_Emperor
+['Romania']	Romania
+['Rome']	Rome
+['Romeo']	Rome
+['Romulus and Remus']	not_linked
+['Ron Howard']	Ron_Howard
+['Ron Jaworski']	not_linked
+['Ron Livingston']	Livingston
+['Ron Rivera']	not_linked
+['Ron Stoppable']	not_linked
+['Ronald Reagan']	Ronald_Reagan
+['Ronald Searle']	not_linked
+['Ronald Weasley']	not_linked
+['Ronaldinho']	not_linked
+['Ronaldo']	Ronaldo
+['Ronnie Radke']	not_linked
+['Rooney family']	not_linked
+['Rosalie Hale']	not_linked
+['Rosemary Clooney']	George_Clooney
+['Roshon Fegan']	not_linked
+['Roth IRA']	not_linked
+['Rottweiler']	not_linked
+['Roush Fenway Racing']	not_linked
+['Roy Lichtenstein']	not_linked
+['Roy Rogers']	not_linked
+['Rudolf Virchow']	not_linked
+['Rufus Wainwright']	Rufus_Wainwright
+['Rupert Giles']	not_linked
+['Rupert Murdoch']	not_linked
+['Russell Wilson']	Wilson
+['Russia']	Russia
+['Russian Language']	Russian_Language
+['Russian ruble']	not_linked
+['Russian']	Russian
+['Russo-Japanese War']	Second_Sino-Japanese_War
+['Ruth Holdorff']	not_linked
+['Rutherford B. Hayes']	not_linked
+['Rwanda']	Rwanda
+['Ryan Dunn']	Kevin_Dunn
+['Ryan Gosling']	Ryan_Gosling
+['Ryan Lochte']	not_linked
+['Ryan Newman']	Chris_Newman
+['Ryan Reynolds']	Ryan_Reynolds
+['Ryan Seacrest']	Ryan_Seacrest
+['Ryanair']	Ryanair
+['S. E. Hinton']	not_linked
+['Sacha Baron Cohen']	Sacha_Baron_Cohen
+['Sacramento County']	Sacramento_County
+['Sacramento']	Sacramento
+['Sage Stallone']	not_linked
+['Saguaro']	not_linked
+['Sahara']	not_linked
+['Saint Anne']	not_linked
+['Saint James, Trinidad and Tobago']	Trinidad_and_Tobago_national_football_team
+['Saint Joe River']	Missouri_River
+['Saint Joseph']	Saint_Joseph
+['Saint Lawrence River']	not_linked
+['Saint Louis University']	Saint_Louis_University
+['Saint Lucia']	Saint_Lucia
+['Saint Lucy']	not_linked
+['Saint Michael Parish']	Jefferson_Parish
+['Saint Nicholas']	not_linked
+['Saint Paul']	Saint_Paul
+['Saint Peter']	not_linked
+['Saint Petersburg']	Saint_Petersburg
+['Saint-Domingue']	not_linked
+['Saki']	not_linked
+['Salamanca']	not_linked
+['Salem']	Salem
+['Salim Khan']	Salim_Kumar
+['Salisbury']	Salisbury
+['Sally Field']	Sally_Field
+['Sally Pearson']	not_linked
+['Salman Khan']	Salman_Khan
+['Salt Lake City']	Salt_Lake_City
+['Salvador Domingo Felipe Jacinto Dalí i Domènech']	not_linked
+['Sam Bradford']	Bradford
+['Sam Houston']	not_linked
+['Sam Shepard']	Sam_Shepard
+['Sami Yusuf']	not_linked
+['Samir Nasri']	not_linked
+['Sammy Davis, Jr.']	Sammy_Davis,_Jr.
+['Sammy Hagar']	not_linked
+['Samsung Group']	not_linked
+['Samsung Lions']	not_linked
+['Samuel Gompers']	not_linked
+['Samuel Morse']	Robert_Morse
+['Samuel Pepys']	not_linked
+['Samuel Taylor Coleridge']	not_linked
+['Samuel de Champlain']	not_linked
+['San Antonio']	San_Antonio
+['San Diego Chargers']	San_Diego_Chargers
+['San Diego County']	San_Diego_County
+['San Diego']	San_Diego
+['San Francisco 49ers']	San_Francisco_49ers
+['San Francisco 4th and King Street Station']	not_linked
+['San Francisco Bay Area']	San_Francisco_Bay_Area
+['San Francisco Giants']	San_Francisco_Giants
+['San Francisco']	San_Francisco
+['San Joaquin County']	San_Joaquin_County
+['San Jose']	San_Jose
+['San Juan']	San_Juan
+['San Miguel de Allende']	San_Lorenzo_de_Almagro
+['Sandra Bullock']	Sandra_Bullock
+['Sanjay Gupta']	not_linked
+['Santa Ana']	Santa_Ana
+['Santa Clara University']	Santa_Clara_University
+['Santa Claus']	not_linked
+['Santi Cazorla']	not_linked
+['Santiago de Cuba']	Santiago_de_Cuba
+['Santo Domingo']	Santo_Domingo
+['Sara Paxton']	not_linked
+['Sarah Dessen']	not_linked
+['Sarah Hill']	not_linked
+['Sarajevo']	Sarajevo
+['Saratoga']	not_linked
+['Saudi Arabia']	Saudi_Arabia
+['Scarecrow']	not_linked
+['Scarlett Johansson']	Scarlett_Johansson
+['Schenectady']	Schenectady
+['School of Visual Arts']	School_of_Visual_Arts
+['Scientist']	Scientist-GB
+['Scotland']	Scotland
+['Scott Disick']	not_linked
+['Scott Joplin']	Janis_Joplin
+['Scott Smith']	not_linked
+['Scott Weinger']	Chris_Pronger
+['Scottie Pippen']	not_linked
+['Scottsdale Airport']	Scottsdale
+['Scottsdale']	Scottsdale
+['Seaholm High School']	Stuyvesant_High_School
+['Sean Connery']	Sean_Connery
+['Sean Murray']	not_linked
+['Sean Payton']	not_linked
+['Seattle Pilots']	not_linked
+['Seattle Seahawks']	Seattle_Seahawks
+['Seattle']	Seattle
+['Sebastián Piñera']	not_linked
+['Second Battle of Ypres']	Battle_of_the_Somme
+['Sedona']	Sedona
+['Seine']	not_linked
+['Selena Gomez']	Selena_Gomez
+['Seminole']	not_linked
+['Seneca people']	Iroquois
+['Senegal']	Senegal
+['Seoul']	Seoul
+['Serbia']	Serbia
+['Serbian language']	Serbian_language
+['Serena Williams']	Serena_Williams
+['Sergio Agüero']	not_linked
+['Sergio Romo']	not_linked
+['Seth MacFarlane']	Seth_MacFarlane
+['Severn']	not_linked
+['Sevierville']	not_linked
+['Sex and the City']	Sex_and_the_City
+['Seychelles']	Seychelles
+['Shakira']	Shakira
+['Shania Twain']	Shania_Twain
+['Shannen Doherty']	Shannen_Doherty
+['Shannon Brown']	not_linked
+['Shannon Estuary']	not_linked
+['Shannon Hoon']	not_linked
+['Shannon River']	not_linked
+['Shannon Walker Williams']	JoBeth_Williams
+['Shao Kahn']	not_linked
+['Sharonville']	not_linked
+['Shawn Johnson']	Mark_Johnson
+['Shawnee Mission West High School']	DeWitt_Clinton_High_School
+['Shawnee Smith']	not_linked
+['Shawnee']	not_linked
+['Shelby Blackstock']	not_linked
+['Shelly Wright']	not_linked
+['Sheree Gustin']	not_linked
+['Sherlock Holmes']	Sherlock_Holmes
+['Sherri Shepherd']	Sherri_Shepherd
+['Sherrod Brown']	not_linked
+['Sheryl Crow']	Sheryl_Crow
+['Shimon Peres']	not_linked
+['Shinzō Abe']	not_linked
+['Shirley Temple']	Shirley_Temple
+['Shiva']	not_linked
+['Shlomo Wiesel']	not_linked
+['Shmi Skywalker']	not_linked
+['Shooting guard']	Shooting_guard
+['Shoreditch']	not_linked
+['Shoreview']	not_linked
+['Shrewsbury Town F.C.']	Shrewsbury_Town_F.C.
+['Siege of Vicksburg']	not_linked
+['Sierra Nevada']	Sierra_Nevada
+['Sikhism']	Sikhism
+['Simba']	not_linked
+['Simon Birch']	not_linked
+['Singapore Zoo']	not_linked
+['Singapore dollar']	not_linked
+['Singapore']	Singapore
+['Sioux']	Sioux
+['Sir Billi']	not_linked
+['Sir Ernest Shackleton']	Shackleton
+['Sir Stanley Matthews']	not_linked
+['Sisters of St. Joseph']	not_linked
+['Sistine Chapel']	not_linked
+['Sittwe']	not_linked
+['Skins']	not_linked
+['SkyWest Airlines']	Southwest_Airlines
+['Slidell']	not_linked
+['Slovakia']	Slovakia
+['Smallville']	Smallville
+['Smokey Robinson']	not_linked
+['Snoopy']	not_linked
+['Solomon']	not_linked
+['Somalia']	Somalia
+['Something Wicked']	not_linked
+['Sonia Gandhi']	Gandhi
+['Sonny Bill Williams']	not_linked
+['Sony Corporation']	Sony_Corporation
+['Sony Mobile Communications']	not_linked
+['Sorrell Booke']	not_linked
+['South Africa']	South_Africa
+['South African rand']	not_linked
+['South America']	South_America
+['South Asia']	Southeast_Asia
+['South Carolina']	South_Carolina
+['South Dakota']	South_Dakota
+['South Korea']	South_Korea
+['South Park']	South_Park
+['South Portland']	Portland
+['Southampton County']	Hampshire_County
+['Southampton F.C.']	Southampton_F.C.
+['Southeast Asia']	Southeast_Asia
+['Southern Africa']	Africa
+['Southern Ocean']	Atlantic_Ocean
+['Southwest Airlines']	Southwest_Airlines
+['Soviet Union']	Soviet_Union
+['Spain']	Spain
+['Spanish Language']	Spanish_Language
+['Spanish Springs']	not_linked
+['Sparta']	Sparta
+['Speaker of the United States House of Representatives']	Speaker_of_the_United_States_House_of_Representatives
+['Special Agent Anthony DiNozzo']	not_linked
+['Spencer Pratt']	not_linked
+['Spike Lee']	Spike_Lee
+['Spike Spiegel']	not_linked
+['Sport Club Internacional']	Sport_Club_Internacional
+['Sports Authority Field at Mile High']	not_linked
+['Spratly Islands']	not_linked
+['Spring Valley']	not_linked
+['Springfield']	Springfield
+['Spud Webb']	not_linked
+['Spy Kids']	Spy_Kids
+['Spy Kids: All the Time in the World']	not_linked
+['Sri Lanka']	Sri_Lanka
+['Sri Lankan rupee']	Indian_rupee
+['St Helens Park']	St_Helens
+['St. Helena']	Helena
+['St. James City']	Saint_John
+['St. Louis Cardinals']	St._Louis_Cardinals
+['St. Louis County']	St._Louis_County
+['St. Louis Park']	Forest_Lawn_Memorial_Park
+['St. Louis Rams']	St._Louis_Rams
+['St. Louis']	St._Louis
+['St. Nicholas of Myra, Bari and Manhattan: Biography of a Legend']	not_linked
+['St. Paul']	Saint_Paul
+['St. Pauls']	Saint_Paul
+['St. Vincent–St. Mary High School']	Stuyvesant_High_School
+['Staffordshire Bull Terrier']	Yorkshire_Terrier
+['Stan Kroenke']	not_linked
+['Stan Lee']	Stan_Lee
+['Stand by Me']	Stand_by_Me
+['Standard Chinese']	Standard_Mandarin
+['Standard Tibetan']	not_linked
+['Stanford University']	Stanford_University
+['Stanley Cup Finals']	not_linked
+['Stanley Cup']	not_linked
+['Stanley Hudson']	not_linked
+['Stanley Tucci']	Stanley_Tucci
+['Star Trek: The Next Generation']	Star_Trek:_The_Next_Generation
+['Star Wars Episode III: Revenge of the Sith']	Star_Wars_Episode_III:_Revenge_of_the_Sith
+['Starbucks']	Starbucks
+['Starvation']	not_linked
+['State University of New York at Cortland']	State_University_of_New_York_at_Stony_Brook
+['State of Palestine']	Mandatory_Palestine
+['Staten Island']	Staten_Island
+['Stephanie Rice']	not_linked
+['Stephen Breyer']	not_linked
+['Stephen Covey']	not_linked
+['Stephen F. Austin']	not_linked
+['Stephen Hawking']	Stephen_Hawking
+['Stephen Ireland']	not_linked
+['Stephen']	not_linked
+['Stephenie Meyer']	not_linked
+['Steve Beshear']	not_linked
+['Steve Jobs']	Steve_Jobs
+['Steve McNair']	not_linked
+['Steve Nash']	not_linked
+['Steve Spurrier']	not_linked
+['Steve Vai']	Steve_Vai
+['Steve Whitmire']	not_linked
+['Steven Seagal']	Steven_Seagal
+['Steven Spielberg']	Steven_Spielberg
+['Steventon']	not_linked
+['Stew']	not_linked
+['Stewie Griffin']	not_linked
+['Stockard Channing']	Stockard_Channing
+['Stockholm']	Stockholm
+['Stockton']	Stockton
+['Stonewall Jackson']	not_linked
+['Stonewall']	not_linked
+['Stratford-upon-Avon']	Stratford-upon-Avon
+['Stroke']	Stroke
+['Sudan']	Sudan
+['Summer Olympic Games']	2012_Summer_Olympics
+['Super Bowl IV']	not_linked
+['Super Bowl XLI']	not_linked
+['Super Bowl XLIII']	not_linked
+['Super Bowl XLIV']	not_linked
+['Super Bowl XLVI']	not_linked
+['Super Bowl XLVII']	not_linked
+['Super Bowl XLVIII']	not_linked
+['Super Bowl XVIII']	not_linked
+['Super Bowl XXX']	not_linked
+['Super Bowl XXXIII']	not_linked
+['Super Bowl XXXIX']	not_linked
+['Super Bowl XXXV']	not_linked
+['Super Bowl XXXVII']	not_linked
+['Super Bowl XXXVIII']	not_linked
+['Super Bowl']	not_linked
+['Super Mario Bros. 2']	not_linked
+['Supreme Court of the United States']	Supreme_Court_of_Canada
+['Surgical complications']	not_linked
+['Susa']	not_linked
+['Susan Atkins']	Eileen_Atkins
+['Susan Downey']	not_linked
+['Susan Saint James']	not_linked
+['Suwon']	not_linked
+['Suzanne Collins']	Joan_Collins
+['Sweden']	Sweden
+['Swedish krona']	not_linked
+['Swimming']	Swimming
+['Swiss franc']	not_linked
+['Switzerland']	Switzerland
+['Sydney']	Sydney
+['Syracuse University Otto the Orange']	Syracuse_Orange_football
+['Syracuse University']	Syracuse_University
+['Syracuse']	Syracuse
+['Syria']	Syria
+['T. Boone Pickens']	James_Pickens_Jr.
+['TBS']	not_linked
+['Tahiti']	not_linked
+['Tahnee Welch']	not_linked
+['Taiwan']	Taiwan
+['Taliban']	Taliban
+['Tamera Mowry']	not_linked
+['Tampa']	Tampa
+['Tampico']	not_linked
+['Taoism']	Taoism
+['Tarsus']	not_linked
+['Tatooine']	not_linked
+['Tatyana Ali']	not_linked
+['Taylor Hicks']	not_linked
+['Taylor Lautner']	Taylor_Lautner
+['Taylor Momsen']	not_linked
+['Taylor Swift']	Taylor_Swift
+['Team Penske']	not_linked
+['Tecumseh']	not_linked
+['Ted Bracewell']	not_linked
+['Ted Kennedy']	Ted_Kennedy
+['Tehran']	Tehran
+['Telephone']	not_linked
+['Tennessee Oilers']	Nashville_Predators
+['Tennessee River']	Mississippi_River
+['Tennessee Titans']	Tennessee_Titans
+['Tennessee Williams']	Tennessee_Williams
+['Tennessee']	Tennessee
+['Tennis player']	Tennis
+['Terrell Owens']	not_linked
+['Terry Waite']	not_linked
+['Tex Beneke']	not_linked
+['Texaco']	not_linked
+['Texarkana, Arkansas']	Texarkana
+['Texas Rangers']	Texas_Rangers
+['Texas Tech University']	Texas_Tech_University
+['Texas']	Texas
+['Thai Language']	Thai_Language
+['Thai baht']	not_linked
+['Thailand']	Thailand
+['Thames Head']	not_linked
+['The 500 Hats of Bartholomew Cubbins']	not_linked
+['The Avengers']	The_Avengers
+['The Big Valley']	not_linked
+['The Bold and the Beautiful']	The_Bold_and_the_Beautiful
+['The Dukes of Hazzard']	The_Dukes_of_Hazzard
+['The Emperor']	not_linked
+['The Grapes of Wrath']	The_Grapes_of_Wrath
+['The Hunger Games']	The_Hunger_Games
+['The Jeffersons']	not_linked
+['The L Word']	not_linked
+['The Legend of Zelda']	not_linked
+['The Lion King']	The_Lion_King
+['The London 2012 Summer Olympics']	2012_Summer_Olympics
+['The Lord of the Rings: The Return of the King']	The_Lord_of_the_Rings:_The_Return_of_the_King
+['The Louvre']	The_Louvre
+['The Mortal Instruments: City of Bones']	not_linked
+['The Muppets']	The_Muppets
+['The Office']	The_Office
+['The Omen']	not_linked
+['The Parent Trap']	The_Parent_Trap
+['The Reader']	The_Reader
+['The Rev']	not_linked
+['The Santa Clause']	The_Santa_Clause_2
+['The School of Athens']	National_and_Kapodistrian_University_of_Athens
+['The Sea of Monsters']	not_linked
+['The Shape']	not_linked
+['The Social Network']	The_Social_Network
+['The Suite Life on Deck']	not_linked
+['The US Open (Tennis)']	not_linked
+['The Wall Street Journal']	The_New_York_Times
+['The Walt Disney Company']	The_Walt_Disney_Company
+['The Wire']	The_Wire
+['The Wizard of Oz']	The_Wizard_of_Oz
+['The X Factor (UK) - Season 6']	The_X_Factor_(UK)
+['The X-Files']	The_X-Files
+['The Young and the Restless']	The_Young_and_the_Restless
+['Theatre of Pompey']	not_linked
+['Theatre']	Theatre
+['Theodor Schwann']	not_linked
+['Theodor Seuss Geisel']	Dr._Seuss
+['Theodore Lesieg']	not_linked
+['Theodore Roosevelt']	Theodore_Roosevelt
+['Thomas Cromwell']	James_Cromwell
+['Thomas Edison']	Thomas_Edison
+['Thomas Hobbes']	Thomas_Hobbes
+['Thomas Jefferson']	Thomas_Jefferson
+['Thomas Paine']	not_linked
+['Thomas Robert Malthus']	not_linked
+['Thomaston']	not_linked
+['Thor Heyerdahl']	not_linked
+['Thundar']	not_linked
+['Tia Mowry']	not_linked
+['Tiberius']	not_linked
+['Tibetan alphabet']	not_linked
+['Tibetan people']	Tibet
+['Tight end']	Tight_end
+['Tim Allen']	Tim_Allen
+['Tim Cook']	not_linked
+['Tim Duncan']	Tim_Duncan
+['Tim Gunn']	not_linked
+['Tim Howard']	not_linked
+['Tim McGraw']	Tim_McGraw
+['Tim Roth']	Tim_Roth
+['Tim Tebow']	not_linked
+['Time Warner']	Time_Warner
+['Timor-Leste']	Timor-Leste
+['Timothy Hutton']	Timothy_Hutton
+['Timothy McGee']	not_linked
+['Timothy McVeigh']	not_linked
+['Timothy Omundson']	not_linked
+['Tina Turner']	Tina_Turner
+['Tirana']	Tirana
+['To Kill a Mockingbird']	To_Kill_a_Mockingbird
+['Todd Haberkorn']	not_linked
+['Tom Brady']	Tom_Brady
+['Tom Corbett']	John_Corbett
+['Tom Cruise']	Tom_Cruise
+['Tom Hanks']	Tom_Hanks
+['Tom Hardy']	Tom_Hardy
+['Tom Landry']	not_linked
+['Tom Thibodeau']	not_linked
+['Tommy Emmanuel']	not_linked
+['Tommy Steele']	not_linked
+['Tomtom Nv']	not_linked
+['Toni Braxton']	Toni_Braxton
+['Tony Romo']	not_linked
+['Tony Sparano']	not_linked
+['Toronto Blue Jays']	Toronto_Blue_Jays
+['Toronto Maple Leafs']	Toronto_Maple_Leafs
+['Toronto']	Toronto
+['Toussaint Charbonneau']	not_linked
+['Toussaint Louverture']	not_linked
+['Tower of London']	Tower_of_London
+['Toy Story 3']	Toy_Story_3
+['Track and field athlete']	Track_and_field_athletics
+['Track and field athletics']	Track_and_field_athletics
+['Tracy Pollan']	not_linked
+['Traffic collision']	Traffic_collision
+['Traitor']	not_linked
+['Trans World Airlines']	Pan_American_World_Airways
+['Transmission Control Protocol']	not_linked
+['Travis Fimmel']	not_linked
+['Treaty of Versailles']	not_linked
+['Trenton']	Trenton
+['Trey Parker']	Trey_Parker
+['Trey Songz']	not_linked
+['Trinity College, Cambridge']	Trinity_College,_Cambridge
+['Trisha Yearwood']	Trisha_Yearwood
+['Troy Aikman']	not_linked
+['Troy']	Troy
+['Tuberculosis']	Tuberculosis
+['Tucson']	Tucson
+['Tulane University']	Tulane_University
+['Tunisia']	Tunisia
+['Tunisian dinar']	not_linked
+['Tupac Shakur']	Tupac_Shakur
+['Tupelo']	Tupelo
+['Turin']	Turin
+['Turkey']	Turkey
+['Turkish Language']	Turkish_Language
+['Turkish lira']	not_linked
+['Turkish people']	not_linked
+['Tutankhamun']	not_linked
+['Tutsi']	not_linked
+['Twilight']	Twilight
+['Ty Murray']	not_linked
+['Tyrese Gibson']	Tyrese_Gibson
+['Tyson Chandler']	Kyle_Chandler
+['UCLA Bruins football']	UCLA_Bruins_football
+['UEFA Euro 2012']	UEFA
+['UNESCO']	not_linked
+['UNICEF']	not_linked
+['US President']	President_of_the_United_States
+['USC Marshall School of Business']	Stanford_Graduate_School_of_Business
+['Uhura']	not_linked
+['Ukraine']	Ukraine
+['Ukrainian hryvnia']	Ukrainian_SSR
+['Ulrich Bez']	not_linked
+['Ultimate Fighting Championship']	The_Ultimate_Fighter
+['Ulysses S. Grant']	Ulysses_S._Grant
+['Umaga']	not_linked
+['United Arab Emirates']	United_Arab_Emirates
+['United Center']	not_linked
+['United Church of Christ']	United_Church_of_Christ
+['United Kingdom']	United_Kingdom
+['United Nations Security Council']	United_Nations
+['United Nations']	United_Nations
+['United States Air Force Academy']	United_States_Air_Force_Academy
+['United States Congress']	United_States_Congress
+['United States Department of the Navy']	United_States_Navy
+['United States Dollar']	United_States_Dollar
+['United States House of Representatives']	United_States_House_of_Representatives
+['United States Military Academy']	United_States_Military_Academy
+['United States Navy']	United_States_Navy
+['United States Representative']	United_States_House_of_Representatives
+['United States Secretary of State']	United_States_Secretary_of_State
+['United States Senate']	United_States_Senate
+['United States of America']	United_States_of_America
+['United States presidential inauguration']	not_linked
+['United we stand, divided we fall']	not_linked
+['Universal City']	not_linked
+['Universal Studios Hollywood']	Universal_Studios
+['University Park']	not_linked
+['University Yale']	Yale_University
+['University of Alabama']	University_of_Alabama
+['University of California, Berkeley']	University_of_California,_Berkeley
+['University of California, Davis']	University_of_California,_Davis
+['University of California, Los Angeles']	University_of_Southern_California
+['University of Connecticut']	University_of_Connecticut
+['University of Delaware']	University_of_Delaware
+['University of Edinburgh']	University_of_Edinburgh
+['University of Florida']	University_of_Florida
+['University of Leeds']	University_of_Leeds
+['University of Maryland University College']	University_of_Maryland,_College_Park
+['University of Minnesota']	University_of_Minnesota
+['University of North Alabama']	University_of_Alabama
+['University of North Carolina at Chapel Hill']	University_of_North_Carolina_at_Chapel_Hill
+['University of Oklahoma']	University_of_Oklahoma
+['University of Oregon']	University_of_Oregon
+['University of Phoenix']	University_of_Arizona
+['University of Pisa']	University_of_Pisa
+['University of Southern California']	University_of_Southern_California
+['University of Southern Mississippi']	The_University_of_Southern_Mississippi
+['University of Tartu']	University_of_Tartu
+['University of Tennessee']	University_of_Tennessee
+['University of Texas at El Paso']	University_of_Texas_at_El_Paso
+['University of Tulsa']	University_of_Tulsa
+['University of Vermont']	University_of_Vermont
+['University of West Alabama']	University_of_Alabama
+['University of the Rockies']	University_of_Northern_Colorado
+['Up']	Up
+['Uppsala University']	Uppsala_University
+['Usher']	Usher
+['Utah']	Utah
+['Utica']	Utica
+['Utrecht']	Utrecht
+['Uzbekistan']	Uzbekistan
+['Valdai Hills']	not_linked
+['Valdosta State University']	Valparaiso_University
+['Valparaiso High School']	Valparaiso_University
+['Van Halen']	Van_Halen
+['Vancouver Canucks']	Vancouver_Canucks
+['Vancouver']	Vancouver
+['Vanderbilt University Mr. Commodore']	Vanderbilt_University
+['Vanderbilt University']	Vanderbilt_University
+['Vanessa Carlton']	not_linked
+['Vanessa Lachey']	Nick_Lachey
+['Vanessa Laine Bryant']	Vanessa_L._Williams
+['Vasco Núñez de Balboa']	Godoy_Cruz_Antonio_Tomba
+['Vasco da Gama']	not_linked
+['Vatican City']	Vatican_City
+['Vegetarian food']	Vegetarianism
+['Venezuela']	Venezuela
+['Venice']	Venice
+['Venus Williams']	Venus_Williams
+['Venus']	Venus
+['Vera-Ellen']	not_linked
+['Verdun']	not_linked
+['Verizon Communications']	Verizon_Communications
+['Vernon Davis']	not_linked
+['Veronica Lake']	not_linked
+['Victor Van Dort']	not_linked
+['Victoria Beckham']	Victoria_Beckham
+['Victoria']	Victoria
+['Vienna']	Vienna
+['Vietnam War']	Vietnam_War
+['Vietnam']	Vietnam
+['Vietnamese dong']	not_linked
+['Vin Scully']	Mike_Scully
+['Vince Lombardi']	not_linked
+['Vincent Grey']	not_linked
+['Vincent van Gogh']	Vincent_van_Gogh
+['Vinci']	not_linked
+['Viola']	Viola
+['Virgin America']	not_linked
+['Virginia Cavaliers football']	Virginia_Tech_Hokies_football
+['Virginia']	Virginia
+['Vito Corleone']	not_linked
+['Vittsjö']	not_linked
+['Vivian Liberto']	not_linked
+['Vladimir Lenin']	Vladimir_Lenin
+['Vocals']	Vocal_music
+['Volga River']	not_linked
+['Volkswagen Group']	not_linked
+['Volkswagen Passenger Cars']	not_linked
+['W. E. B. Du Bois']	not_linked
+['WHSmith']	not_linked
+['WNYC']	not_linked
+['WPCH-TV']	not_linked
+['Wake Forest University']	Wake_Forest_University
+['Wale']	not_linked
+['Wales']	Wales
+['Walmart']	Walmart
+['Walnut Creek']	Walnut_Creek
+['Walt Disney']	Walt_Disney
+['Walt Whitman']	Walt_Whitman
+['Walter Mazzarri']	not_linked
+['Walter Raleigh']	not_linked
+['Walton County']	Johnson_County
+['Walton Goggins']	not_linked
+['Walton']	Alton
+['War in Darfur']	not_linked
+['Warren G. Harding']	Warren_G._Harding
+['Warren Moon']	not_linked
+['Warsaw']	Warsaw
+['Washington Heights']	not_linked
+['Washington Redskins']	Washington_Redskins
+['Washington State Cougars football']	Washington_State_Cougars_football
+['Washington State University']	Washington_State_University
+['Washington Wizards']	Washington_Wizards
+['Washington']	Washington
+['Washington, D.C.']	Washington,_D.C.
+['Washoe County']	Washoe_County
+['Wassily Kandinsky']	Dmitri_Shostakovich
+['Waterloo']	Waterloo
+['Watts']	not_linked
+['Waxhaws']	not_linked
+['Wayne Gretzky']	Gary_Goetzman
+['Weld County']	Weld_County
+['Wellsville']	not_linked
+['Welsh Language']	Welsh_Language
+['Wentworth Miller']	not_linked
+['Wesley Snipes']	Wesley_Snipes
+['West Africa Time Zone']	East_Africa_Time_Zone-US
+['West Africa']	Africa
+['West African CFA franc']	not_linked
+['West Germany']	West_Germany
+['West Lafayette']	Lafayette
+['West St. Paul']	Saint_Paul
+['Western Australia']	Western_Australia
+['Western Cape']	Western_Cape
+['Western Europe']	Europe
+['Western Roman Empire']	Roman_Empire
+['Westminster Hall and Burying Ground']	not_linked
+['Westmoreland County']	Westmoreland_County
+['Westwood Village Memorial Park Cemetery']	Westwood_Village_Memorial_Park_Cemetery
+['Wharton School of the University of Pennsylvania']	Wharton_School_of_the_University_of_Pennsylvania
+['Whistler Mountain']	not_linked
+['Whitney Houston']	Whitney_Houston
+['Whoopi Goldberg']	Whoopi_Goldberg
+['Wide receiver']	Wide_receiver
+['Wikimedia Foundation']	Wikimedia_Foundation
+['Wil Wheaton']	Wil_Wheaton
+['Wildwood']	not_linked
+['Wilfred Owen']	not_linked
+['Will Friedle']	not_linked
+['Will Smith']	Will_Smith
+['William & Mary Tribe football']	West_Virginia_Mountaineers_football
+['William Daniels']	William_H._Daniels
+['William Faulkner']	William_Faulkner
+['William Haslam']	not_linked
+['William Henry Harrison']	William_Henry_Harrison
+['William Henry Smith']	not_linked
+['William Howard Taft']	William_Howard_Taft
+['William Jennings Bryan']	not_linked
+['William Lamb, 2nd Viscount Melbourne']	not_linked
+['William McKinley']	William_McKinley
+['William Morris']	William_Morris
+['William Penn']	not_linked
+['William Roache']	not_linked
+['William Shakespeare']	William_Shakespeare
+['William Shatner']	William_Shatner
+['William V. Roth, Jr.']	David_Lee_Roth
+['Williamson County']	Travis_County
+['Willow Smith']	not_linked
+['Willy Wonka']	Willy_Wonka_&_the_Chocolate_Factory
+['Wimbledon']	Wimbledon
+['Winchester']	Winchester
+['Winston Churchill']	Winston_Churchill
+['With God, all things are possible']	not_linked
+['Wolfgang Amadeus Mozart']	Wolfgang_Amadeus_Mozart
+['Wolfville']	not_linked
+['Woman at Wedding']	not_linked
+['Woodrow Wilson']	Woodrow_Wilson
+['Woodstock']	Taking_Woodstock
+['Woodward High School']	Stuyvesant_High_School
+['Woody Boyd']	not_linked
+['World Ocean']	not_linked
+['World Series']	not_linked
+['World War II']	World_War_II
+['Wright brothers']	not_linked
+['Wyandotte County']	Wayne_County
+['Wyoming']	Wyoming
+['Xi Jinping']	not_linked
+['Yale Law School']	Yale_Law_School
+['Yale University Handsome Dan']	not_linked
+['Yangtze']	not_linked
+['Yani Gellman']	not_linked
+['Yorba Linda']	Costa_Mesa
+['YouTube']	not_linked
+['Youngs Memorial Cemetery']	Holy_Cross_Cemetery
+['Youngstown State University']	Ohio_University
+['Ypres']	not_linked
+['Yucatán Peninsula']	Veracruz
+['Yucca flower']	not_linked
+['Zac Brown Band']	not_linked
+['Zac Efron']	Zac_Efron
+['Zack de la Rocha']	not_linked
+['Zagreb']	Zagreb
+['Zakynthos Island']	not_linked
+['Zambezi']	not_linked
+['Zerelda Mimms']	not_linked
+['Zeus']	not_linked
+['Zoe Saldana']	Zoe_Saldana
+['Zoey 101']	not_linked
+['Zoroastrianism']	not_linked
+['Zulu Kingdom']	not_linked
+['heart attack']	not_linked
+['Éowyn']	not_linked
+[]	not_linked

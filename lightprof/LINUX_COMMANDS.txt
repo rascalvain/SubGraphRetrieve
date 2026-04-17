@@ -1,0 +1,147 @@
+================================================================================
+                    Linux 服务器快速命令参考
+================================================================================
+
+【环境配置】
+--------------
+# 激活环境
+conda activate retriever
+
+# 进入工作目录
+cd ~/SubgraphRAG-main/retrieve
+
+# 添加执行权限
+chmod +x *.sh
+
+
+【完整流程 - 方式1: 逐步执行】
+--------------
+# Step 1: Retriever推理
+python inference_hybrid.py \
+    -p webqsp_hybrid_llm_kg_Feb05-09_40_35/cpt.pth \
+    --splits val test \
+    --enable_entity_mapping
+
+# Step 2: LightPROF采样（验证集）
+python lightprof_sampling.py \
+    -i webqsp_hybrid_llm_kg_Feb05-09_40_35/val_retrieval_result.pth \
+    --use_mock_llm
+
+# Step 3: LightPROF采样（测试集）
+python lightprof_sampling.py \
+    -i webqsp_hybrid_llm_kg_Feb05-09_40_35/test_retrieval_result.pth \
+    --use_mock_llm
+
+
+【完整流程 - 方式2: 一键运行】
+--------------
+bash run_lightprof_pipeline.sh webqsp_hybrid_llm_kg_Feb05-09_40_35/cpt.pth
+
+
+【后台运行】
+--------------
+# 使用nohup
+nohup bash run_lightprof_pipeline.sh checkpoint.pth > pipeline.log 2>&1 &
+
+# 查看日志
+tail -f pipeline.log
+
+# 使用screen
+screen -S lightprof
+bash run_lightprof_pipeline.sh checkpoint.pth
+# 分离: Ctrl+A, D
+# 重连: screen -r lightprof
+
+
+【使用真实LLM】
+--------------
+# 设置API密钥
+export OPENAI_API_KEY='your_key_here'
+
+# 运行
+bash run_lightprof_with_llm.sh webqsp_hybrid_llm_kg_Feb05-09_40_35/cpt.pth
+
+# 或直接使用
+python lightprof_sampling.py \
+    -i test_retrieval_result.pth \
+    --llm_model gpt-4o-mini
+
+
+【批量处理】
+--------------
+bash batch_process.sh
+
+
+【测试和调试】
+--------------
+# 功能测试
+python test_lightprof.py
+
+# 示例演示
+python run_lightprof_example.py
+
+# 处理小样本测试
+python -c "import torch; d=torch.load('test_retrieval_result.pth'); torch.save(dict(list(d.items())[:10]), 'test_small.pth')"
+python lightprof_sampling.py -i test_small.pth --use_mock_llm
+
+
+【查看结果】
+--------------
+# 列出生成的文件
+ls -lh *_lightprof.pth
+
+# 快速查看内容
+python -c "
+import torch
+data = torch.load('test_retrieval_result_lightprof.pth')
+print(f'样本数: {len(data)}')
+s = list(data.values())[0]
+print(f'推理图三元组: {len(s[\"lightprof_gr_triples\"])}')
+"
+
+# 查看统计信息
+cat *_lightprof_stats.json
+
+
+【监控】
+--------------
+# GPU使用
+watch -n 1 nvidia-smi
+
+# 进程状态
+ps aux | grep python
+
+# 磁盘空间
+df -h
+
+
+【常见问题】
+--------------
+# 权限问题
+chmod +x *.sh
+
+# 环境变量
+export OPENAI_API_KEY='your_key'
+export OMP_NUM_THREADS=4
+
+# 编码问题
+export LANG=zh_CN.UTF-8
+
+
+【快速复制命令】
+================================================================================
+
+# 快速测试
+python test_lightprof.py
+
+# 处理数据（模拟LLM）
+python lightprof_sampling.py -i webqsp_hybrid_llm_kg_Feb05-09_40_35/test_retrieval_result.pth --use_mock_llm
+
+# 处理数据（真实LLM）
+export OPENAI_API_KEY='your_key'
+python lightprof_sampling.py -i webqsp_hybrid_llm_kg_Feb05-09_40_35/test_retrieval_result.pth --llm_model gpt-4o-mini
+
+# 后台运行
+nohup bash run_lightprof_pipeline.sh checkpoint.pth > pipeline.log 2>&1 &
+
+================================================================================
