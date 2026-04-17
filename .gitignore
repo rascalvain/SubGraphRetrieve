@@ -1,0 +1,42 @@
+# ==========================
+# 你的项目专用精简 .gitignore
+# ==========================
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 数据集 / 模型 / 权重文件（大文件，禁止上传）
+*.pth
+*.pkl
+*.parquet
+*.jsonl
+*.json
+*.csv
+*.h5
+*.npy
+*.npz
+*.bin
+*.zip
+*.tar.gz
+*.rar
+
+# 你的项目大文件目录
+datasets/
+emb/
+lightprof/
+retrieve/data_files/
+reason/gpt_labeled/
+
+# 日志 / 临时文件
+*.log
+*.tmp
+*.out
+
+# IDE / 系统文件
+.idea/
+.vscode/
+.DS_Store
+*.swp
