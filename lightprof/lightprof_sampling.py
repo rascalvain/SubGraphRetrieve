@@ -534,12 +534,15 @@ class LLMScorer:
     支持多种LLM后端（OpenAI、DeepSeek等）
     """
 
-    def __init__(self, model_name='gpt-4o-mini', api_key="sk-IQ8vi7XzSOgnTAW805DchQy2YVSOA8q6WYb7vUZRYOHKN6vN", base_url="https://api.openai-proxy.org/v1", use_mock=False):
-        self.model_name = model_name
+    def __init__(self, model_name=None, api_key=None, base_url=None, use_mock=False):
+        self.model_name = model_name or os.getenv("OPENAI_MODEL", "gpt-4o-mini")
         self.use_mock = use_mock
 
+        api_key = api_key or os.getenv("OPENAI_API_KEY", "")
+        base_url = base_url or os.getenv("OPENAI_BASE_URL", "")
+
         # 如果没有提供api_key，从配置中读取
-        if api_key is None:
+        if not api_key:
             api_key = self._load_api_key_from_config()
 
         if not use_mock:
@@ -1014,9 +1017,9 @@ def main():
                         help='使用模拟LLM打分（测试用）')
     parser.add_argument('--llm_model', type=str, default='gpt-4.1-mini',
                         help='LLM模型名称（默认: gpt-4.1-mini）')
-    parser.add_argument('--llm_api_key', type=str, default='sk-IQ8vi7XzSOgnTAW805DchQy2YVSOA8q6WYb7vUZRYOHKN6vN',
+    parser.add_argument('--llm_api_key', type=str, default=os.getenv("OPENAI_API_KEY", ""),
                         help='LLM API密钥（从环境变量OPENAI_API_KEY读取）')
-    parser.add_argument('--llm_base_url', type=str, default='https://api.openai-proxy.org/v1',
+    parser.add_argument('--llm_base_url', type=str, default=os.getenv("OPENAI_BASE_URL", ""),
                         help='LLM API基础URL（可选）')
 
     # 展示选项

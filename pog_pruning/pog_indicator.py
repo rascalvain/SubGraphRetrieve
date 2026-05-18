@@ -75,15 +75,18 @@ class PoGIndicatorGenerator:
 
     def __init__(
         self,
-        model: str = "gpt-4o-mini",
-        api_key: str = "sk-IQ8vi7XzSOgnTAW805DchQy2YVSOA8q6WYb7vUZRYOHKN6vN",
-        base_url: str = "https://api.openai-proxy.org/v1",
+        model: str = None,
+        api_key: str = None,
+        base_url: str = None,
         max_retries: int = 3,
         verbose: bool = False
     ):
-        self.model = model
+        self.model = model or os.getenv("OPENAI_MODEL", "gpt-4o-mini")
         self.max_retries = max_retries
         self.verbose = verbose
+
+        api_key = api_key or os.getenv("OPENAI_API_KEY", "")
+        base_url = base_url or os.getenv("OPENAI_BASE_URL", "")
 
         # 客户端在类内初始化，不依赖外部全局变量
         try:
@@ -508,12 +511,12 @@ def main():
     )
     parser.add_argument(
         '--api_key', type=str,
-        default='sk-IQ8vi7XzSOgnTAW805DchQy2YVSOA8q6WYb7vUZRYOHKN6vN',
+        default=os.getenv("OPENAI_API_KEY", ""),
         help='OpenAI API 密钥'
     )
     parser.add_argument(
         '--base_url', type=str,
-        default='https://api.openai-proxy.org/v1',
+        default=os.getenv("OPENAI_BASE_URL", ""),
         help='API Base URL（使用中转时填写，默认官方接口可留空）'
     )
 
@@ -606,9 +609,7 @@ def run_mock_test():
     }
 
     generator = PoGIndicatorGenerator(
-        model="gpt-4.1-mini",
-        api_key="sk-IQ8vi7XzSOgnTAW805DchQy2YVSOA8q6WYb7vUZRYOHKN6vN",
-        base_url="https://api.openai-proxy.org/v1",
+        model=os.getenv("OPENAI_MODEL", "gpt-4.1-mini"),
         verbose=True
     )
 
