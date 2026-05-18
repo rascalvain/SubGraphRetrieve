@@ -1,6 +1,6 @@
 # Multi-Granularity Semantic-Aware Subgraph Retrieval for KGQA
 
-> **基于多粒度语义感知与动态路径规划的目标行为子图检索方法**
+> **基于多粒度语义感知与动态路径规划的推理证据图谱检索方法**
 
 A Knowledge Graph Question Answering (KGQA) system that retrieves and refines answer subgraphs from large-scale knowledge graphs using a GNN-based Retriever, LightPROF path sampling, and PoG reasoning indicators.
 
